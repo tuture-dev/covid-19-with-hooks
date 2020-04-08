@@ -1,24 +1,30 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useState, useEffect } from "react";
+
+import "./App.css";
+import GlobalStats from "./components/GlobalStats";
+
+const BASE_URL = "https://corona.lmao.ninja";
 
 function App() {
+  const [globalStats, setGlobalStats] = useState({});
+
+  useEffect(() => {
+    const fetchGlobalStats = async () => {
+      const response = await fetch(`${BASE_URL}/all`);
+      const data = await response.json();
+      setGlobalStats(data);
+    };
+
+    fetchGlobalStats();
+    const intervalId = setInterval(fetchGlobalStats, 5000);
+
+    return () => clearInterval(intervalId);
+  }, []);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='App'>
+      <h1>COVID-19</h1>
+      <GlobalStats stats={globalStats} />
     </div>
   );
 }
