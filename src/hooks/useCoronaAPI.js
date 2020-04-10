@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect, useCallback } from "react";
 
 const BASE_URL = "https://corona.lmao.ninja";
 
@@ -12,12 +12,13 @@ export function useCoronaAPI(
   }
 ) {
   const [data, setData] = useState(initialData);
+  const convertData = useCallback(converter, []);
 
   useEffect(() => {
     const fetchData = async () => {
       const response = await fetch(`${BASE_URL}${path}`);
       const data = await response.json();
-      setData(converter(data));
+      setData(convertData(data));
     };
     fetchData();
 
@@ -25,7 +26,7 @@ export function useCoronaAPI(
       const intervalId = setInterval(fetchData, refetchInterval);
       return () => clearInterval(intervalId);
     }
-  }, [converter, path, refetchInterval]);
+  }, [convertData, path, refetchInterval]);
 
   return data;
 }
