@@ -9,7 +9,7 @@ import {
   Bar,
 } from "recharts";
 
-function CountriesChart({ data, dataKey }) {
+function CountriesChart({ data, dataKey, onClick }) {
   return (
     <BarChart
       width={1200}
@@ -17,6 +17,7 @@ function CountriesChart({ data, dataKey }) {
       style={{ margin: "auto" }}
       margin={{ top: 30, left: 20, right: 30 }}
       data={data}
+      onClick={onClick}
     >
       <CartesianGrid strokeDasharray='3 3' />
       <XAxis dataKey='country' />
