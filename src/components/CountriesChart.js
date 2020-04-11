@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useContext } from "react";
 import {
   BarChart,
   CartesianGrid,
@@ -8,8 +8,17 @@ import {
   Legend,
   Bar,
 } from "recharts";
+import { AppDispatch } from "../App";
 
-function CountriesChart({ data, dataKey, onClick }) {
+function CountriesChart({ data, dataKey }) {
+  const dispatch = useContext(AppDispatch);
+
+  function onClick(payload = {}) {
+    if (payload.activeLabel) {
+      dispatch({ type: "SET_COUNTRY", country: payload.activeLabel });
+    }
+  }
+
   return (
     <BarChart
       width={1200}
