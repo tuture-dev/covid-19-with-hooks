@@ -12,7 +12,7 @@
         "React",
         "React Hooks"
       ],
-      "cover": ""
+      "cover": "https://imgkr.cn-bj.ufileos.com/7425c4bd-a180-4b4f-8c01-350c639d1dff.png"
     }
   ],
   "steps": [
@@ -273,7 +273,7 @@
               "type": "heading-three",
               "children": [
                 {
-                  "text": "为什么要写这篇 Hooks 教程？"
+                  "text": "为什么要写这一系列 Hooks 教程？"
                 }
               ],
               "id": "hju3-l-SN"
@@ -325,7 +325,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "如果你也有同样的困惑，希望这篇文章能帮助你拨开云雾，让 Hooks 成为你的称手兵器。我们将通过一个完整的 COVID-19 数据可视化项目，结合 Hooks 的动画原理讲解，让你真正地精通 React Hooks！"
+                  "text": "如果你也有同样的困惑，希望这一系列文章能帮助你拨开云雾，让 Hooks 成为你的称手兵器。我们将通过一个完整的 COVID-19 数据可视化项目，结合 Hooks 的动画原理讲解，让你真正地精通 React Hooks！"
                 }
               ]
             },
@@ -1390,7 +1390,7 @@
                   "code": true
                 },
                 {
-                  "text": " 。很有可能，你已经在平时的学习和开发中已经接触并使用过了（当然如果你刚开始学也没关系啦）。不过在此之前，我们先熟悉一下 React 函数式组件的运行过程。"
+                  "text": " 。很有可能，你在平时的学习和开发中已经接触并使用过了（当然如果你刚开始学也没关系啦）。不过在此之前，我们先熟悉一下 React 函数式组件的运行过程。"
                 }
               ]
             },
@@ -1876,6 +1876,15 @@
               ]
             },
             {
+              "type": "image",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "url": "https://imgkr.cn-bj.ufileos.com/ea1a3cb2-6bf5-4b5d-b7a7-1426521c1e5f.gif"
+            },
+            {
               "type": "paragraph",
               "children": [
                 {
@@ -1979,7 +1988,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "这道理就像，你翻开十年前的日记本，虽然是现在翻开的，但记录的仍然是十年前的时光。"
+                  "text": "这道理就像，你翻开十年前的日记本，虽然是现在翻开的，但记录的仍然是十年前的时光。或者说，日记本 Capture 了那一段美好的回忆。"
                 }
               ]
             },
@@ -3177,14 +3186,14 @@
                   "code": true
                 },
                 {
-                  "text": " 进行一波深挖之后，我们来看看 "
+                  "text": " 进行一波深挖之后，我们再来揭开 "
                 },
                 {
                   "text": "useEffect",
                   "code": true
                 },
                 {
-                  "text": " 是什么个情况。实际上，你可能已经猜到了——同样是通过一个链表记录所有的 Hook，请看下面的演示："
+                  "text": " 神秘的面纱。实际上，你可能已经猜到了——同样是通过一个链表记录所有的 Hook，请看下面的演示："
                 }
               ]
             },
@@ -3262,7 +3271,14 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "OK，现在你应该对 React Hooks 的本质有了相当的理解了——只不过是链表罢了！回过头来，我们想起来 React 官方文档 Rules of Hooks 中强调过一点："
+                  "text": "至此，上一节的动画中那两个“问号”的身世也就揭晓了——只不过是"
+                },
+                {
+                  "text": "链表",
+                  "bold": true
+                },
+                {
+                  "text": "罢了！回过头来，我们想起来 React 官方文档 Rules of Hooks 中强调过一点："
                 }
               ]
             },
@@ -4083,6 +4099,137 @@
                 },
                 {
                   "text": " ，敬请期待。"
+                }
+              ]
+            },
+            {
+              "type": "heading-two",
+              "children": [
+                {
+                  "text": "参考资料"
+                }
+              ],
+              "id": "mj2Lz1HlB"
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "React 官方文档",
+                      "link": true,
+                      "url": "https://reactjs.org/"
+                    }
+                  ],
+                  "parent": "bulleted-list",
+                  "level": 0
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Robin Wieruch："
+                    },
+                    {
+                      "link": true,
+                      "url": "https://www.robinwieruch.de/react-hooks-fetch-data",
+                      "text": "How to fetch data with React Hooks?"
+                    }
+                  ],
+                  "parent": "bulleted-list",
+                  "level": 0
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Dan Abramov："
+                    },
+                    {
+                      "link": true,
+                      "url": "https://overreacted.io/a-complete-guide-to-useeffect/",
+                      "text": "A Complete Guide to useEffect"
+                    }
+                  ],
+                  "parent": "bulleted-list",
+                  "level": 0
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Dan Abramov："
+                    },
+                    {
+                      "link": true,
+                      "url": "https://overreacted.io/how-are-function-components-different-from-classes/",
+                      "text": "How Are Function Components Different from Classes?"
+                    }
+                  ],
+                  "parent": "bulleted-list",
+                  "level": 0
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Rudi Yardley："
+                    },
+                    {
+                      "link": true,
+                      "url": "https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e",
+                      "text": "React hooks: not magic, just arrays"
+                    }
+                  ],
+                  "parent": "bulleted-list",
+                  "level": 0
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Eytan Manor："
+                    },
+                    {
+                      "link": true,
+                      "url": "https://medium.com/the-guild/under-the-hood-of-reacts-hooks-system-eb59638c9dba",
+                      "text": "Under the hood of React’s hooks system"
+                    }
+                  ],
+                  "parent": "bulleted-list",
+                  "level": 0
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "衍良："
+                    },
+                    {
+                      "link": true,
+                      "url": "https://zhuanlan.zhihu.com/p/92211533",
+                      "text": "React Hooks 完全上手指南"
+                    }
+                  ],
+                  "parent": "bulleted-list",
+                  "level": 0
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "张立理："
+                    },
+                    {
+                      "link": true,
+                      "url": "https://zhuanlan.zhihu.com/p/48264713",
+                      "text": "对 React Hooks 的一些思考"
+                    }
+                  ],
+                  "level": 0,
+                  "parent": "bulleted-list"
                 }
               ]
             }
