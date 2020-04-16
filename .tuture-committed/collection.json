@@ -13,6 +13,17 @@
         "React Hooks"
       ],
       "cover": "https://imgkr.cn-bj.ufileos.com/7425c4bd-a180-4b4f-8c01-350c639d1dff.png"
+    },
+    {
+      "id": "xocgOEMnq",
+      "created": "2020-04-14T13:59:07.658Z",
+      "name": "用动画和实战打开 React Hooks（二）：自定义 Hook 和 useCallback",
+      "topics": [
+        "React",
+        "React Hooks"
+      ],
+      "cover": "",
+      "description": "在第二篇教程中，我们将手把手带你用自定义 Hook 重构之前的组件代码，让它变得更清晰、并且可以实现逻辑复用。在重构完成之后，我们陷入了组件“不断获取数据并重新渲染”的无限循环，这时候，useCallback 站了出来，如同定海神针一般拯救了我们的应用……"
     }
   ],
   "steps": [
@@ -426,12 +437,7 @@
               "hiddenLines": [],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -478,12 +484,7 @@
               "hiddenLines": [],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -530,12 +531,7 @@
               "hiddenLines": [],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -582,12 +578,7 @@
               "hiddenLines": [],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -634,12 +625,7 @@
               "hiddenLines": [],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -686,12 +672,7 @@
               "hiddenLines": [],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -738,12 +719,7 @@
               "hiddenLines": [],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -790,12 +766,7 @@
               "hiddenLines": [],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -842,12 +813,7 @@
               "hiddenLines": [],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -894,12 +860,7 @@
               "hiddenLines": [],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -946,12 +907,7 @@
               "hiddenLines": [],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -998,12 +954,7 @@
               "hiddenLines": [],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -1050,12 +1001,7 @@
               "hiddenLines": [],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -1102,12 +1048,7 @@
               "hiddenLines": [],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -1154,12 +1095,7 @@
               "hiddenLines": [],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -1206,12 +1142,7 @@
               "hiddenLines": [],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -1258,12 +1189,7 @@
               "hiddenLines": [],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -1310,12 +1236,7 @@
               "hiddenLines": [],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -2471,12 +2392,7 @@
               "hiddenLines": [],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -2544,12 +2460,7 @@
               "hiddenLines": [],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -2758,12 +2669,7 @@
               "hiddenLines": [],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -3436,12 +3342,7 @@
               ],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -3493,12 +3394,7 @@
               ],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -3598,12 +3494,7 @@
               "hiddenLines": [],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -3657,12 +3548,7 @@
               "hiddenLines": [],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -3804,12 +3690,7 @@
               ],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -4005,12 +3886,7 @@
               ],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -4238,13 +4114,14 @@
       ]
     },
     {
-      "commit": "20de81a9f805666a8344c0ec4c4f12ce07dd24b8",
+      "commit": "6051606ab01aec826d214e8ff3ea35642ab672d8",
       "id": "Ag50v9VMg_",
+      "articleId": "xocgOEMnq",
       "type": "step",
       "children": [
         {
           "type": "heading-two",
-          "commit": "20de81a9f805666a8344c0ec4c4f12ce07dd24b8",
+          "commit": "6051606ab01aec826d214e8ff3ea35642ab672d8",
           "id": "aZReEOukqU",
           "fixed": true,
           "children": [
@@ -4261,7 +4138,430 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "接下来，我们想要继续实现历史数据的展示。在正式开工之前，我们突然想起了"
+                  "text": "在"
+                },
+                {
+                  "text": "上一篇教程",
+                  "link": true,
+                  "url": "https://tuture.co/2020/04/08/870a7b7/"
+                },
+                {
+                  "text": "中，我们通过动画的方式不断深入 "
+                },
+                {
+                  "text": "useState",
+                  "code": true
+                },
+                {
+                  "text": " 和 "
+                },
+                {
+                  "text": "useEffect",
+                  "code": true
+                },
+                {
+                  "text": "，基本上理清了 React Hooks 背后的实现机制——"
+                },
+                {
+                  "text": "链表",
+                  "bold": true
+                },
+                {
+                  "text": "，同时也实现了 COVID-19 数据可视化应用的全球数据总览和多个国家数据的直方图。"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "如果你想直接从这一篇教程开始阅读和实践，可下载本教程的源码："
+                }
+              ]
+            },
+            {
+              "type": "code-block",
+              "lang": "bash",
+              "children": [
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "git clone -b second-part https://github.com/tuture-dev/covid-19-with-hooks.git"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "# 或者克隆 Gitee 的仓库"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "git clone -b second-part https://gitee.com/tuture/covid-19-with-hooks.git"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "自定义 Hook 是 React Hooks 中最有趣的功能，或者说特色。简单来说，它用一种高度灵活的方式，能够让你在不同的函数组件之间共享某些特定的逻辑。我们先来通过一个非常简单的例子来看一下。"
+                }
+              ]
+            },
+            {
+              "type": "heading-three",
+              "children": [
+                {
+                  "text": "一个简单的自定义 Hook"
+                }
+              ],
+              "id": "HzAw-JYvt"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "先来看一个 Hook，名为 "
+                },
+                {
+                  "text": "useBodyScrollPosition",
+                  "code": true
+                },
+                {
+                  "text": " ，用于获取当前浏览器的垂直滚动位置："
+                }
+              ]
+            },
+            {
+              "type": "code-block",
+              "lang": "javascript",
+              "children": [
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "function useBodyScrollPosition() {"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  const [scrollPosition, setScrollPosition] = useState(null);"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  useEffect(() => {"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "    const handleScroll = () => setScrollPosition(window.scrollY);"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "    document.addEventListener('scroll', handleScroll);"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "    return () =>"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "      document.removeEventListener('scroll', handleScroll);"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  }, []);"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  return scrollPosition;"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "通过观察，我们可以发现自定义 Hook 具有以下特点："
+                }
+              ]
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "表面上：一个命名格式为 "
+                    },
+                    {
+                      "text": "useXXX",
+                      "code": true
+                    },
+                    {
+                      "text": " 的函数，但不是 React 函数式组件"
+                    }
+                  ],
+                  "level": 0,
+                  "parent": "bulleted-list"
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "本质上：内部通过使用 React 自带的一些 Hook （例如 "
+                    },
+                    {
+                      "text": "useState",
+                      "code": true
+                    },
+                    {
+                      "text": " 和 "
+                    },
+                    {
+                      "text": "useEffect",
+                      "code": true
+                    },
+                    {
+                      "text": " ）来实现某些通用的逻辑"
+                    }
+                  ],
+                  "level": 0,
+                  "parent": "bulleted-list"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "如果你发散一下思维，可以想到有很多地方可以去做自定义 Hook：DOM 副作用修改/监听、动画、请求、表单操作、数据存储等等。"
+                }
+              ]
+            },
+            {
+              "type": "note",
+              "level": "info",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "这里推荐两个强大的 React Hooks 库："
+                    },
+                    {
+                      "text": "React Use",
+                      "link": true,
+                      "url": "https://github.com/streamich/react-use"
+                    },
+                    {
+                      "text": " 和 "
+                    },
+                    {
+                      "text": "Umi Hooks",
+                      "link": true,
+                      "url": "https://github.com/umijs/hooks"
+                    },
+                    {
+                      "text": "。它们都实现了很多生产级别的自定义 Hook，非常值得学习。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "我想这便是 React Hooks 最大的魅力——通过几个内置的 Hook，你可以按照某些约定进行任意组合，“制造出”任何你真正需要的 Hook，或者调用他人写好的 Hook，从而轻松应对各种复杂的业务场景。就好像大千世界无奇不有，却不过是由一百多种元素组合而成。"
+                }
+              ]
+            },
+            {
+              "type": "heading-three",
+              "children": [
+                {
+                  "text": "管窥自定义 Hook 背后的原理"
+                }
+              ],
+              "id": "nKlN8jJQh"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "又到了动画时间。我们来看看在组件初次渲染时的情形："
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "url": "https://imgkr.cn-bj.ufileos.com/a1063c8d-85c7-4b4e-911b-3423cd5ccd85.gif"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "我们在 "
+                },
+                {
+                  "text": "App",
+                  "code": true
+                },
+                {
+                  "text": " 组件中调用了 "
+                },
+                {
+                  "text": "useCustomHook",
+                  "code": true
+                },
+                {
+                  "text": " 钩子。可以看到，"
+                },
+                {
+                  "text": "即便我们切换到了自定义 Hook 中，Hook 链表的生成依旧没有改变",
+                  "bold": true
+                },
+                {
+                  "text": "。再来看看重渲染的情况："
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "url": "https://imgkr.cn-bj.ufileos.com/5e93794b-94ce-4e5c-a0f0-b4f6b2a5254e.gif"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "同样地，即便代码的执行进入到自定义 Hook 中，我们依然可以从 Hook 链表中读取到相应的数据，这个”配对“的过程总能成功。"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "我们再次回味一下 Rules of Hook。它规定只有在两个地方能够使用 React Hook："
+                }
+              ]
+            },
+            {
+              "type": "numbered-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "React 函数组件"
+                    }
+                  ],
+                  "level": 0,
+                  "parent": "numbered-list",
+                  "number": 1
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "自定义 Hook"
+                    }
+                  ],
+                  "level": 0,
+                  "parent": "numbered-list",
+                  "number": 2
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "第一点我们早就清楚了，第二点通过刚才的两个动画相信你也明白了："
+                },
+                {
+                  "text": "自定义 Hook 本质上只是把调用内置 Hook 的过程封装成一个个可以复用的函数，并不影响 Hook 链表的生成和读取",
+                  "bold": true
+                },
+                {
+                  "text": "。"
                 }
               ]
             }
@@ -4270,7 +4570,7 @@
         {
           "file": "src/hooks/useCoronaAPI.js",
           "display": true,
-          "commit": "20de81a9f805666a8344c0ec4c4f12ce07dd24b8",
+          "commit": "6051606ab01aec826d214e8ff3ea35642ab672d8",
           "type": "file",
           "children": [
             {
@@ -4278,17 +4578,41 @@
               "fixed": true,
               "children": [
                 {
+                  "type": "heading-three",
+                  "children": [
+                    {
+                      "text": "实战环节"
+                    }
+                  ],
+                  "id": "C0lR9Ae84"
+                },
+                {
                   "type": "paragraph",
                   "children": [
                     {
-                      "text": "我们开始实现一个自定义 Hook，名为 "
+                      "text": "让我们继续 COVID-19 数据应用的开发。接下来，我们打算实现历史数据的展示，包括确诊病例、死亡病例和治愈人数。"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "我们首先来实现一个自定义 Hook，名为 "
                     },
                     {
                       "text": "useCoronaAPI",
                       "code": true
                     },
                     {
-                      "text": " ，代码如下："
+                      "text": " ，用于共享从 NovelCOVID 19 API 获取数据的逻辑。创建 "
+                    },
+                    {
+                      "text": "src/hooks/useCoronaAPI.js",
+                      "code": true
+                    },
+                    {
+                      "text": "，填写代码如下："
                     }
                   ]
                 }
@@ -4297,16 +4621,11 @@
             {
               "type": "diff-block",
               "file": "src/hooks/useCoronaAPI.js",
-              "commit": "20de81a9f805666a8344c0ec4c4f12ce07dd24b8",
+              "commit": "6051606ab01aec826d214e8ff3ea35642ab672d8",
               "hiddenLines": [],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -4318,7 +4637,165 @@
                   "type": "paragraph",
                   "children": [
                     {
-                      "text": ""
+                      "text": "可以看到，定义的 "
+                    },
+                    {
+                      "text": "useCoronaAPI",
+                      "code": true
+                    },
+                    {
+                      "text": " 包含两个参数，第一个是 "
+                    },
+                    {
+                      "text": "path",
+                      "code": true
+                    },
+                    {
+                      "text": " ，也就是 API 路径；第二是配置参数，包括以下参数："
+                    }
+                  ]
+                },
+                {
+                  "type": "bulleted-list",
+                  "children": [
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "initialData",
+                          "code": true
+                        },
+                        {
+                          "text": " ：初始为空的默认数据"
+                        }
+                      ],
+                      "level": 0,
+                      "parent": "bulleted-list"
+                    },
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "converter",
+                          "code": true
+                        },
+                        {
+                          "text": " ：对原始数据的转换函数（默认是一个恒等函数）"
+                        }
+                      ],
+                      "level": 0,
+                      "parent": "bulleted-list"
+                    },
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "refetchInterval",
+                          "code": true
+                        },
+                        {
+                          "text": " ：重新获取数据的间隔（以毫秒为单位）"
+                        }
+                      ],
+                      "level": 0,
+                      "parent": "bulleted-list"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "此外，我们还要注意 "
+                    },
+                    {
+                      "text": "useEffect",
+                      "code": true
+                    },
+                    {
+                      "text": " 所传入的 "
+                    },
+                    {
+                      "text": "deps",
+                      "code": true
+                    },
+                    {
+                      "text": " 数组，包括了三个元素（都是在 Effect 函数中用到的）："
+                    },
+                    {
+                      "text": "converter",
+                      "code": true
+                    },
+                    {
+                      "text": " 、"
+                    },
+                    {
+                      "text": "path",
+                      "code": true
+                    },
+                    {
+                      "text": " 和 "
+                    },
+                    {
+                      "text": "refetchInterval",
+                      "code": true
+                    },
+                    {
+                      "text": " ，均来自 "
+                    },
+                    {
+                      "text": "useCoronaAPI",
+                      "code": true
+                    },
+                    {
+                      "text": " 传入的参数。"
+                    }
+                  ]
+                },
+                {
+                  "type": "note",
+                  "level": "info",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "在"
+                        },
+                        {
+                          "text": "上一篇文章",
+                          "link": true,
+                          "url": "https://tuture.co/2020/04/08/870a7b7/"
+                        },
+                        {
+                          "text": "中，我们简单地提到过，不要对 "
+                        },
+                        {
+                          "text": "useEffect",
+                          "code": true
+                        },
+                        {
+                          "text": " 的依赖说谎，那么这里就是一个很好的案例：我们将 Effect 函数"
+                        },
+                        {
+                          "text": "所有用到的外部数据",
+                          "bold": true
+                        },
+                        {
+                          "text": "（包括函数）全部加入到了依赖数组中。当然，由于 "
+                        },
+                        {
+                          "text": "BASE_URL",
+                          "code": true
+                        },
+                        {
+                          "text": " 属于模块级别的常量，因此不需要作为依赖。"
+                        },
+                        {
+                          "text": "不过这里留了个坑，嘿嘿……",
+                          "italic": true
+                        }
+                      ]
                     }
                   ]
                 }
@@ -4329,7 +4806,7 @@
         {
           "file": "src/App.js",
           "display": true,
-          "commit": "20de81a9f805666a8344c0ec4c4f12ce07dd24b8",
+          "commit": "6051606ab01aec826d214e8ff3ea35642ab672d8",
           "type": "file",
           "children": [
             {
@@ -4363,25 +4840,20 @@
             {
               "type": "diff-block",
               "file": "src/App.js",
-              "commit": "20de81a9f805666a8344c0ec4c4f12ce07dd24b8",
+              "commit": "6051606ab01aec826d214e8ff3ea35642ab672d8",
               "hiddenLines": [
                 [
                   3,
                   6
                 ],
                 [
-                  50,
-                  55
+                  49,
+                  54
                 ]
               ],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -4389,28 +4861,6 @@
               "type": "explain",
               "fixed": true,
               "children": [
-                {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": "注意到，由于我们没有在钩子中对数据进行处理（取前十个国家的数据），因此需要在传入 "
-                    },
-                    {
-                      "text": "CountriesChart",
-                      "code": true
-                    },
-                    {
-                      "text": " 组件时通过 "
-                    },
-                    {
-                      "text": "slice",
-                      "code": true
-                    },
-                    {
-                      "text": " 方法处理一下。"
-                    }
-                  ]
-                },
                 {
                   "type": "paragraph",
                   "children": [
@@ -4458,20 +4908,40 @@
                   "text": "吓得我们赶紧把网页关了。冷静下来之后，不禁沉思：这到底是为什么呢？"
                 }
               ]
+            },
+            {
+              "type": "note",
+              "level": "danger",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "NovelCOVID 19 API",
+                      "link": true,
+                      "url": "https://corona.lmao.ninja/docs/#/"
+                    },
+                    {
+                      "text": " 属于公益性质的数据资源，我们应该尽快把页面关掉，避免给对方的服务器造成太大的请求压力。"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
       ]
     },
     {
-      "commit": "954afda05cf14c958d777f7e5cfacec9e534537a",
-      "id": "9bsE2TtE_t",
+      "commit": "cbccb105cf6b1e0e433aecbb3666d88c15f770f0",
+      "id": "IX-CGX5ED7",
+      "articleId": "xocgOEMnq",
       "type": "step",
       "children": [
         {
           "type": "heading-two",
-          "commit": "954afda05cf14c958d777f7e5cfacec9e534537a",
-          "id": "4hCMn0eCGk",
+          "commit": "cbccb105cf6b1e0e433aecbb3666d88c15f770f0",
+          "id": "K5OU_9Me3k",
           "fixed": true,
           "children": [
             {
@@ -4487,7 +4957,1186 @@
               "type": "paragraph",
               "children": [
                 {
+                  "text": "如果你一字一句把"
+                },
+                {
+                  "text": "上一篇文章",
+                  "link": true,
+                  "url": "https://tuture.co/2020/04/08/870a7b7/"
+                },
+                {
+                  "text": "看下来，其实可能已经发现了问题的线索："
+                }
+              ]
+            },
+            {
+              "type": "block-quote",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "依赖数组在判断元素是否发生改变时使用了 "
+                    },
+                    {
+                      "text": "Object.is",
+                      "code": true
+                    },
+                    {
+                      "text": " 进行比较，因此当 "
+                    },
+                    {
+                      "text": "deps",
+                      "code": true
+                    },
+                    {
+                      "text": " 中某一元素为非原始类型时（例如函数、对象等），"
+                    },
+                    {
+                      "text": "每次渲染都会发生改变",
+                      "bold": true
+                    },
+                    {
+                      "text": "，从而每次都会触发 Effect，失去了 "
+                    },
+                    {
+                      "text": "deps",
+                      "code": true
+                    },
+                    {
+                      "text": " 本身的意义。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "OK，如果你没有印象也没关系，我们先来聊一聊初学 React Hooks 经常会遇到的一个问题：Effect 无限循环。"
+                }
+              ]
+            },
+            {
+              "type": "heading-three",
+              "children": [
+                {
+                  "text": "关于 Effect 无限循环"
+                }
+              ],
+              "id": "kzsb2bQTn"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "来看一下这段”永不停止“的计数器："
+                }
+              ]
+            },
+            {
+              "type": "code-block",
+              "lang": "js",
+              "children": [
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "function EndlessCounter() {"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  const [count, setCount] = useState(0);"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  useEffect(() => {"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "    setTimeout(() => setCount(count + 1), 1000);"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  });"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  return ("
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "    <div className=\"App\">"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "      <h1>{count}</h1>"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "    </div>"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  );"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "如果你去运行这段代码，会发现数字永远在增长。我们来通过一段动画来演示一下这个”无限循环“到底是怎么回事："
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "children": [
+                {
                   "text": ""
+                }
+              ],
+              "url": "https://imgkr.cn-bj.ufileos.com/7d74f227-0c63-405e-9ce9-0cfb4b2ce546.gif"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "我们的组件陷入了："
+                },
+                {
+                  "text": "渲染 => 触发 Effect => 修改状态 => 触发重渲染",
+                  "bold": true
+                },
+                {
+                  "text": "的无限循环。"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "想必你已经发现 "
+                },
+                {
+                  "text": "useEffect",
+                  "code": true
+                },
+                {
+                  "text": " 陷入无限循环的”罪魁祸首“了——因为没有提供正确的 "
+                },
+                {
+                  "text": "deps",
+                  "code": true
+                },
+                {
+                  "text": " ！从而导致每次渲染后都会去执行 Effect 函数。事实上，在之前的 "
+                },
+                {
+                  "text": "useCoronaAPI",
+                  "code": true
+                },
+                {
+                  "text": " 中，也是因为传入的 "
+                },
+                {
+                  "text": "deps",
+                  "code": true
+                },
+                {
+                  "text": " 存在问题，导致每次渲染后都去执行 Effect 函数去获取数据，陷入了无限循环。那么，到底是哪个依赖出现了问题？"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "没错，就是那个 "
+                },
+                {
+                  "text": "converter",
+                  "code": true
+                },
+                {
+                  "text": " 函数！我们知道，在 JavaScript 中，原始类型和非原始类型在判断值是否相同的时候有巨大的差别："
+                }
+              ]
+            },
+            {
+              "type": "code-block",
+              "lang": "js",
+              "children": [
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "// 原始类型"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "true === true // true"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "1 === 1 // true"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "'a' === 'a' // true"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "// 非原始类型"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "{} === {} // false"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "[] === [] // false"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "() => {} === () => {} // false"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "同样，每次传入的 "
+                },
+                {
+                  "text": "converter",
+                  "code": true
+                },
+                {
+                  "text": " 函数虽然形式上一样，但仍然是不同的函数（引用不相等），从而导致每次都会执行 Effect 函数。"
+                }
+              ]
+            },
+            {
+              "type": "heading-three",
+              "children": [
+                {
+                  "text": "关于记忆化缓存（Memoization）"
+                }
+              ],
+              "id": "CfP8VmD_P"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Memoization，一般称为记忆化缓存（或者“记忆”），听上去是很高深的计算机专业术语，但是它背后的思想很简单：假如我们有一个"
+                },
+                {
+                  "text": "计算量很大的纯函数",
+                  "bold": true
+                },
+                {
+                  "text": "（给定相同的输入，一定会得到相同的输出），那么我们在第一次遇到特定输入的时候，把它的输出结果“记”（缓存）下来，那么下次碰到同样的输出，只需要从缓存里面拿出来直接返回就可以了，省去了计算的过程！"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "实际上，除了节省不必要的计算、从而提高程序性能之外，Memoization 还有一个用途："
+                },
+                {
+                  "text": "用了保证返回值的引用相等",
+                  "bold": true
+                },
+                {
+                  "text": "。"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "我们先通过一段简单的求平方根的函数，熟悉一下 Memoization 的原理。首先是一个没有缓存的版本："
+                }
+              ]
+            },
+            {
+              "type": "code-block",
+              "lang": "js",
+              "children": [
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "function sqrt(arg) {"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  return { result: Math.sqrt(arg) };"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "你也许注意到了我们特地返回了一个对象来记录结果，我们后面会和 Memoized 的版本进行对比分析。然后是加了缓存的版本："
+                }
+              ]
+            },
+            {
+              "type": "code-block",
+              "lang": "js",
+              "children": [
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "function memoizedSqrt(arg) {"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  // 如果 cache 不存在，则初始化一个空对象"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  if (!memoizedSqrt.cache) {"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "    memoizedSqrt.cache = {};"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  }"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  // 如果 cache 没有命中，则先计算，再存入 cache，然后返回结果"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  if (!memoizedSqrt.cache[arg]) {"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "    return memoizedSqrt.cache[arg] = { result: Math.sqrt(arg) };"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  }"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  // 直接返回 cache 内的结果，无需计算"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  return memoizedSqrt.cache[arg];"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "然后我们尝试调用这两个函数，就会发现一些明显的区别："
+                }
+              ]
+            },
+            {
+              "type": "code-block",
+              "lang": "js",
+              "children": [
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "sqrt(9)                      // { result: 3 }"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "sqrt(9) === sqrt(9)          // false"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "Object.is(sqrt(9), sqrt(9))  // false"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "memoizedSqrt(9)                              // { result: 3 }"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "memoizedSqrt(9) === memoizedSqrt(9)          // true"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "Object.is(memoizedSqrt(9), memoizedSqrt(9))  // true"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "普通的 "
+                },
+                {
+                  "text": "sqrt",
+                  "code": true
+                },
+                {
+                  "text": " 每次返回的结果的引用都不相同（或者说是一个"
+                },
+                {
+                  "text": "全新",
+                  "bold": true
+                },
+                {
+                  "text": "的对象），而 "
+                },
+                {
+                  "text": "memoizedSqrt",
+                  "code": true
+                },
+                {
+                  "text": " 则能返回完全相同的对象。因此在 React 中，通过 Memoization 可以确保多次渲染中的 Prop 或者状态的引用相等，从而能够避免不必要的重渲染或者副作用执行。"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "让我们来总结一下记忆化缓存（Memoization）的两个使用场景："
+                }
+              ]
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "通过缓存计算结果，节省费时的计算"
+                    }
+                  ],
+                  "level": 0,
+                  "parent": "bulleted-list"
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "保证相同输入下返回值的引用相等"
+                    }
+                  ],
+                  "level": 0,
+                  "parent": "bulleted-list"
+                }
+              ]
+            },
+            {
+              "type": "heading-three",
+              "children": [
+                {
+                  "text": "使用方法和原理解析"
+                }
+              ],
+              "id": "duon-RSm6"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "为了解决函数在多次渲染中的"
+                },
+                {
+                  "text": "引用相等",
+                  "bold": true
+                },
+                {
+                  "text": "（Referential Equality）问题，React 引入了一个重要的 Hook—— "
+                },
+                {
+                  "text": "useCallback",
+                  "code": true
+                },
+                {
+                  "text": "。官方文档介绍的使用方法如下："
+                }
+              ]
+            },
+            {
+              "type": "code-block",
+              "lang": "js",
+              "children": [
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "const memoizedCallback = useCallback(callback, deps);"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "第一个参数 "
+                },
+                {
+                  "text": "callback",
+                  "code": true
+                },
+                {
+                  "text": " 就是需要记忆的函数，第二个参数就是大家熟悉的 "
+                },
+                {
+                  "text": "deps",
+                  "code": true
+                },
+                {
+                  "text": " 参数，同样也是一个依赖数组（有时候也被称为输入 "
+                },
+                {
+                  "text": "inputs",
+                  "code": true
+                },
+                {
+                  "text": "）。在 Memoization 的上下文中，这个 "
+                },
+                {
+                  "text": "deps",
+                  "code": true
+                },
+                {
+                  "text": " 的作用相当于缓存中的键（Key），如果键没有改变，那么就直接返回缓存中的函数，并且确保是引用相同的函数。"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "在大多数情况下，我们都是传入空数组 "
+                },
+                {
+                  "text": "[]",
+                  "code": true
+                },
+                {
+                  "text": " 作为 "
+                },
+                {
+                  "text": "deps",
+                  "code": true
+                },
+                {
+                  "text": " 参数，这样 "
+                },
+                {
+                  "text": "useCallback",
+                  "code": true
+                },
+                {
+                  "text": " 返回的就"
+                },
+                {
+                  "text": "始终是同一个函数，永远不会更新",
+                  "bold": true
+                },
+                {
+                  "text": "。"
+                }
+              ]
+            },
+            {
+              "type": "note",
+              "level": "info",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "你也许在刚开始学习 "
+                    },
+                    {
+                      "text": "useEffect",
+                      "code": true
+                    },
+                    {
+                      "text": " 的时候就发现：我们并不需要把 "
+                    },
+                    {
+                      "text": "useState",
+                      "code": true
+                    },
+                    {
+                      "text": " 返回的第二个 Setter 函数作为 Effect 的依赖。实际上，React 内部已经对 Setter 函数做了 Memoization 处理，因此每次渲染拿到的 Setter 函数都是完全一样的，"
+                    },
+                    {
+                      "text": "deps",
+                      "code": true
+                    },
+                    {
+                      "text": " 加不加都是没有影响的。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "按照惯例，我们还是通过一段动画来了解一下 "
+                },
+                {
+                  "text": "useCallback",
+                  "code": true
+                },
+                {
+                  "text": " 的原理（"
+                },
+                {
+                  "text": "deps",
+                  "code": true
+                },
+                {
+                  "text": " 为空数组的情况），首先是初次渲染："
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "url": "https://imgkr.cn-bj.ufileos.com/71dce125-e7f7-4389-a0a4-f3edb0156f46.gif"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "和之前一样，调用 "
+                },
+                {
+                  "text": "useCallback",
+                  "code": true
+                },
+                {
+                  "text": " 也是追加到 Hook 链表上，不过这里着重强调了这个函数 "
+                },
+                {
+                  "text": "f1",
+                  "code": true
+                },
+                {
+                  "text": " 所指向的内存位置（随便画了一个），从而明确告诉我们："
+                },
+                {
+                  "text": "这个 ",
+                  "bold": true
+                },
+                {
+                  "text": "f1",
+                  "code": true,
+                  "bold": true
+                },
+                {
+                  "text": " 始终是指向同一个函数",
+                  "bold": true
+                },
+                {
+                  "text": "。然后返回的 "
+                },
+                {
+                  "text": "onClick",
+                  "code": true
+                },
+                {
+                  "text": " 则是指向 Hook 中存储的 "
+                },
+                {
+                  "text": "f1",
+                  "code": true
+                },
+                {
+                  "text": "。"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "再来看看重渲染的情况："
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "url": "https://imgkr.cn-bj.ufileos.com/d2dfa7fb-64c4-47cc-b85e-b43ee9150dd7.gif"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "重渲染的时候，再次调用 "
+                },
+                {
+                  "text": "useCallback",
+                  "code": true
+                },
+                {
+                  "text": " 同样返回给我们 "
+                },
+                {
+                  "text": "f1",
+                  "code": true
+                },
+                {
+                  "text": " 函数，并且这个函数还是指向同一块内存，从而使得 "
+                },
+                {
+                  "text": "onClick",
+                  "code": true
+                },
+                {
+                  "text": " 函数和上次渲染时真正做到了"
+                },
+                {
+                  "text": "引用相等",
+                  "bold": true
+                },
+                {
+                  "text": "。"
+                }
+              ]
+            },
+            {
+              "type": "heading-three",
+              "children": [
+                {
+                  "text": "useCallback 和 useMemo 的关系"
+                }
+              ],
+              "id": "kiq73LCW_"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "我们知道 "
+                },
+                {
+                  "text": "useCallback",
+                  "code": true
+                },
+                {
+                  "text": " 有个好基友叫 "
+                },
+                {
+                  "text": "useMemo",
+                  "code": true
+                },
+                {
+                  "text": "。还记得我们之前总结了 Memoization 的两大场景吗？"
+                },
+                {
+                  "text": "useCallback",
+                  "code": true
+                },
+                {
+                  "text": " 主要是为了解决函数的”"
+                },
+                {
+                  "text": "引用相等",
+                  "bold": true
+                },
+                {
+                  "text": "“问题，而 "
+                },
+                {
+                  "text": "useMemo",
+                  "code": true
+                },
+                {
+                  "text": " 则是一个”"
+                },
+                {
+                  "text": "全能型选手",
+                  "bold": true
+                },
+                {
+                  "text": "“，能够同时胜任引用相等和节约计算的任务。"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "实际上，"
+                },
+                {
+                  "text": "useMemo",
+                  "code": true
+                },
+                {
+                  "text": " 的功能是 "
+                },
+                {
+                  "text": "useCallback",
+                  "code": true
+                },
+                {
+                  "text": " 的"
+                },
+                {
+                  "text": "超集",
+                  "bold": true
+                },
+                {
+                  "text": "。与 "
+                },
+                {
+                  "text": "useCallback",
+                  "code": true
+                },
+                {
+                  "text": " 只能缓存函数相比，"
+                },
+                {
+                  "text": "useMemo",
+                  "code": true
+                },
+                {
+                  "text": " 可以缓存任何类型的值（当然也包括函数）。"
+                },
+                {
+                  "text": "useMemo",
+                  "code": true
+                },
+                {
+                  "text": " 的使用方法如下："
+                }
+              ]
+            },
+            {
+              "type": "code-block",
+              "lang": "js",
+              "children": [
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "const memoizedValue = useMemo(() => computeExpensiveValue(a, b), [a, b]);"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "其中第一个参数是一个函数，这个函数返回值的返回值（也就是上面 "
+                },
+                {
+                  "text": "computeExpensiveValue",
+                  "code": true
+                },
+                {
+                  "text": " 的结果）将返回给 "
+                },
+                {
+                  "text": "memoizedValue",
+                  "code": true
+                },
+                {
+                  "text": " 。因此以下两个钩子的使用是完全等价的："
+                }
+              ]
+            },
+            {
+              "type": "code-block",
+              "lang": "js",
+              "children": [
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "useCallback(fn, deps);"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "useMemo(() => fn, deps);"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "鉴于在前端开发中遇到的计算密集型任务是相当少的，而且浏览器引擎的性能也足够优秀，因此这一系列文章不会深入去讲解 "
+                },
+                {
+                  "text": "useMemo",
+                  "code": true
+                },
+                {
+                  "text": " 的使用。更何况，已经掌握 "
+                },
+                {
+                  "text": "useCallback",
+                  "code": true
+                },
+                {
+                  "text": " 的你，应该也已经知道怎么去使用 "
+                },
+                {
+                  "text": "useMemo",
+                  "code": true
+                },
+                {
+                  "text": " 了吧？"
                 }
               ]
             }
@@ -4496,7 +6145,7 @@
         {
           "file": "src/hooks/useCoronaAPI.js",
           "display": true,
-          "commit": "954afda05cf14c958d777f7e5cfacec9e534537a",
+          "commit": "cbccb105cf6b1e0e433aecbb3666d88c15f770f0",
           "type": "file",
           "children": [
             {
@@ -4504,10 +6153,40 @@
               "fixed": true,
               "children": [
                 {
+                  "type": "heading-three",
+                  "children": [
+                    {
+                      "text": "实战环节"
+                    }
+                  ],
+                  "id": "okqbWlZCV"
+                },
+                {
                   "type": "paragraph",
                   "children": [
                     {
-                      "text": ""
+                      "text": "熟悉了 "
+                    },
+                    {
+                      "text": "useCallback",
+                      "code": true
+                    },
+                    {
+                      "text": " 之后，我们开始修复 "
+                    },
+                    {
+                      "text": "useCoronaAPI",
+                      "code": true
+                    },
+                    {
+                      "text": " 钩子的问题。修改 "
+                    },
+                    {
+                      "text": "src/hooks/useCoronaAPI",
+                      "code": true
+                    },
+                    {
+                      "text": " ，代码如下："
                     }
                   ]
                 }
@@ -4516,33 +6195,28 @@
             {
               "type": "diff-block",
               "file": "src/hooks/useCoronaAPI.js",
-              "commit": "954afda05cf14c958d777f7e5cfacec9e534537a",
+              "commit": "cbccb105cf6b1e0e433aecbb3666d88c15f770f0",
               "hiddenLines": [
                 [
-                  2,
-                  3
+                  3,
+                  4
                 ],
                 [
                   6,
-                  12
+                  7
                 ],
                 [
-                  19,
-                  20
+                  14,
+                  15
                 ],
                 [
-                  27,
-                  28
+                  21,
+                  24
                 ]
               ],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -4554,7 +6228,63 @@
                   "type": "paragraph",
                   "children": [
                     {
-                      "text": ""
+                      "text": "可以看到，我们把 "
+                    },
+                    {
+                      "text": "converter",
+                      "code": true
+                    },
+                    {
+                      "text": " 函数用 "
+                    },
+                    {
+                      "text": "useCallback",
+                      "code": true
+                    },
+                    {
+                      "text": " 包裹了起来，把记忆化处理后的函数命名为 "
+                    },
+                    {
+                      "text": "convertData",
+                      "code": true
+                    },
+                    {
+                      "text": "，并且传入的 "
+                    },
+                    {
+                      "text": "deps",
+                      "code": true
+                    },
+                    {
+                      "text": " 参数为空数组 "
+                    },
+                    {
+                      "text": "[]",
+                      "code": true
+                    },
+                    {
+                      "text": " ，确保每次渲染都相同。然后把 "
+                    },
+                    {
+                      "text": "useEffect",
+                      "code": true
+                    },
+                    {
+                      "text": " 中所有的 "
+                    },
+                    {
+                      "text": "converter",
+                      "code": true
+                    },
+                    {
+                      "text": " 函数相应修改成 "
+                    },
+                    {
+                      "text": "convertData",
+                      "code": true
+                    },
+                    {
+                      "text": "。"
                     }
                   ]
                 }
@@ -4570,7 +6300,151 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "再次开启应用，这时候应该发现一切都回归正常了。"
+                  "text": "最后再次开启项目，一切又回归了正常，这次自定义 Hook 重构圆满完成！在下一篇教程中，我们将开始进一步推进 COVID-19 数据可视化项目的推进，通过曲线图的方式实现历史数据的展示（包括确诊、死亡和治愈）。数据状态变得越来越复杂，我们又该如何应对呢？敬请期待。"
+                }
+              ]
+            },
+            {
+              "type": "block-quote",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "剧透提醒：用 useReducer + useContext 实现一个简单的 Redux！"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading-two",
+              "children": [
+                {
+                  "text": "参考资料"
+                }
+              ],
+              "id": "BtgpIAg2Z"
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "React 官方文档",
+                      "link": true,
+                      "url": "https://reactjs.org/docs/hooks-reference.html"
+                    }
+                  ],
+                  "parent": "bulleted-list",
+                  "level": 0
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "DT-FE："
+                    },
+                    {
+                      "text": "怎么用 React Hooks 造轮子",
+                      "link": true,
+                      "url": "https://github.com/dt-fe/weekly/blob/v2/080.%E7%B2%BE%E8%AF%BB%E3%80%8A%E6%80%8E%E4%B9%88%E7%94%A8%20React%20Hooks%20%E9%80%A0%E8%BD%AE%E5%AD%90%E3%80%8B.md"
+                    }
+                  ],
+                  "parent": "bulleted-list",
+                  "level": 0
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "WellPaidGeed："
+                    },
+                    {
+                      "link": true,
+                      "url": "https://dev.to/wellpaidgeek/how-to-write-custom-hooks-in-react-1ana",
+                      "text": "How to write custom hooks in React"
+                    }
+                  ],
+                  "parent": "bulleted-list",
+                  "level": 0
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Netlify Blog："
+                    },
+                    {
+                      "link": true,
+                      "url": "https://www.netlify.com/blog/2019/03/11/deep-dive-how-do-react-hooks-really-work/",
+                      "text": "Deep dive: How do React hooks really work?"
+                    }
+                  ],
+                  "parent": "bulleted-list",
+                  "level": 0
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Andrew Myint："
+                    },
+                    {
+                      "link": true,
+                      "url": "https://medium.com/@andrewmyint/infinite-loop-inside-useeffect-react-hooks-6748de62871",
+                      "text": "How to Fix the Infinite Loop Inside “useEffect” (React Hooks)"
+                    }
+                  ],
+                  "parent": "bulleted-list",
+                  "level": 0
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Kent C. Dodds："
+                    },
+                    {
+                      "link": true,
+                      "url": "https://kentcdodds.com/blog/usememo-and-usecallback",
+                      "text": "When to useMemo and useCallback"
+                    }
+                  ],
+                  "parent": "bulleted-list",
+                  "level": 0
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Sandro Dolidze："
+                    },
+                    {
+                      "link": true,
+                      "url": "https://medium.com/@sdolidze/react-hooks-memoization-99a9a91c8853",
+                      "text": "React Hooks: Memoization"
+                    }
+                  ],
+                  "parent": "bulleted-list",
+                  "level": 0
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Chidume Nnamdi："
+                    },
+                    {
+                      "link": true,
+                      "url": "https://blog.bitsrc.io/understanding-memoization-in-javascript-to-improve-performance-2763ab107092",
+                      "text": "Understanding Memoization in JavaScript to Improve Performance"
+                    }
+                  ],
+                  "level": 0,
+                  "parent": "bulleted-list"
                 }
               ]
             }
@@ -4579,14 +6453,14 @@
       ]
     },
     {
-      "commit": "8cb0cb51e5d150fb2464c0a0fdf05b2c61dc763e",
-      "id": "LLExzOBVBk",
+      "commit": "56410f311e3dfb874cd37903bba1cc06de6729e0",
+      "id": "R-p50_R7AK",
       "type": "step",
       "children": [
         {
           "type": "heading-two",
-          "commit": "8cb0cb51e5d150fb2464c0a0fdf05b2c61dc763e",
-          "id": "EL_6_nhQKd",
+          "commit": "56410f311e3dfb874cd37903bba1cc06de6729e0",
+          "id": "Z3Tg-lc1O7",
           "fixed": true,
           "children": [
             {
@@ -4611,7 +6485,7 @@
         {
           "file": "src/App.js",
           "display": true,
-          "commit": "8cb0cb51e5d150fb2464c0a0fdf05b2c61dc763e",
+          "commit": "56410f311e3dfb874cd37903bba1cc06de6729e0",
           "type": "file",
           "children": [
             {
@@ -4631,7 +6505,7 @@
             {
               "type": "diff-block",
               "file": "src/App.js",
-              "commit": "8cb0cb51e5d150fb2464c0a0fdf05b2c61dc763e",
+              "commit": "56410f311e3dfb874cd37903bba1cc06de6729e0",
               "hiddenLines": [
                 [
                   0,
@@ -4639,17 +6513,12 @@
                 ],
                 [
                   11,
-                  18
+                  17
                 ]
               ],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -4672,7 +6541,7 @@
         {
           "file": "src/components/CountriesChart.js",
           "display": true,
-          "commit": "8cb0cb51e5d150fb2464c0a0fdf05b2c61dc763e",
+          "commit": "56410f311e3dfb874cd37903bba1cc06de6729e0",
           "type": "file",
           "children": [
             {
@@ -4692,7 +6561,7 @@
             {
               "type": "diff-block",
               "file": "src/components/CountriesChart.js",
-              "commit": "8cb0cb51e5d150fb2464c0a0fdf05b2c61dc763e",
+              "commit": "56410f311e3dfb874cd37903bba1cc06de6729e0",
               "hiddenLines": [
                 [
                   0,
@@ -4705,12 +6574,7 @@
               ],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -4733,7 +6597,7 @@
         {
           "file": "src/components/HistoryChart.js",
           "display": true,
-          "commit": "8cb0cb51e5d150fb2464c0a0fdf05b2c61dc763e",
+          "commit": "56410f311e3dfb874cd37903bba1cc06de6729e0",
           "type": "file",
           "children": [
             {
@@ -4753,16 +6617,11 @@
             {
               "type": "diff-block",
               "file": "src/components/HistoryChart.js",
-              "commit": "8cb0cb51e5d150fb2464c0a0fdf05b2c61dc763e",
+              "commit": "56410f311e3dfb874cd37903bba1cc06de6729e0",
               "hiddenLines": [],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -4785,7 +6644,7 @@
         {
           "file": "src/components/HistoryChartGroup.js",
           "display": true,
-          "commit": "8cb0cb51e5d150fb2464c0a0fdf05b2c61dc763e",
+          "commit": "56410f311e3dfb874cd37903bba1cc06de6729e0",
           "type": "file",
           "children": [
             {
@@ -4805,16 +6664,11 @@
             {
               "type": "diff-block",
               "file": "src/components/HistoryChartGroup.js",
-              "commit": "8cb0cb51e5d150fb2464c0a0fdf05b2c61dc763e",
+              "commit": "56410f311e3dfb874cd37903bba1cc06de6729e0",
               "hiddenLines": [],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -4837,7 +6691,7 @@
         {
           "file": "src/utils.js",
           "display": true,
-          "commit": "8cb0cb51e5d150fb2464c0a0fdf05b2c61dc763e",
+          "commit": "56410f311e3dfb874cd37903bba1cc06de6729e0",
           "type": "file",
           "children": [
             {
@@ -4857,16 +6711,11 @@
             {
               "type": "diff-block",
               "file": "src/utils.js",
-              "commit": "8cb0cb51e5d150fb2464c0a0fdf05b2c61dc763e",
+              "commit": "56410f311e3dfb874cd37903bba1cc06de6729e0",
               "hiddenLines": [],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -4903,14 +6752,14 @@
       ]
     },
     {
-      "commit": "21c9debb9a8f24a2841ee6328429aca0759d2e6c",
-      "id": "Qar7krg7jz",
+      "commit": "d4fdd268ee6e328ab7ab2affc0de13ec3de0774f",
+      "id": "jdEFK1seRU",
       "type": "step",
       "children": [
         {
           "type": "heading-two",
-          "commit": "21c9debb9a8f24a2841ee6328429aca0759d2e6c",
-          "id": "RuOml0NtER",
+          "commit": "d4fdd268ee6e328ab7ab2affc0de13ec3de0774f",
+          "id": "wwwzrDXGgl",
           "fixed": true,
           "children": [
             {
@@ -4935,7 +6784,7 @@
         {
           "file": "src/App.js",
           "display": true,
-          "commit": "21c9debb9a8f24a2841ee6328429aca0759d2e6c",
+          "commit": "d4fdd268ee6e328ab7ab2affc0de13ec3de0774f",
           "type": "file",
           "children": [
             {
@@ -4955,25 +6804,16 @@
             {
               "type": "diff-block",
               "file": "src/App.js",
-              "commit": "21c9debb9a8f24a2841ee6328429aca0759d2e6c",
+              "commit": "d4fdd268ee6e328ab7ab2affc0de13ec3de0774f",
               "hiddenLines": [
                 [
-                  3,
-                  8
-                ],
-                [
-                  59,
-                  59
+                  5,
+                  6
                 ]
               ],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -4996,7 +6836,7 @@
         {
           "file": "src/components/CountriesChart.js",
           "display": true,
-          "commit": "21c9debb9a8f24a2841ee6328429aca0759d2e6c",
+          "commit": "d4fdd268ee6e328ab7ab2affc0de13ec3de0774f",
           "type": "file",
           "children": [
             {
@@ -5016,7 +6856,7 @@
             {
               "type": "diff-block",
               "file": "src/components/CountriesChart.js",
-              "commit": "21c9debb9a8f24a2841ee6328429aca0759d2e6c",
+              "commit": "d4fdd268ee6e328ab7ab2affc0de13ec3de0774f",
               "hiddenLines": [
                 [
                   5,
@@ -5025,12 +6865,7 @@
               ],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -5053,7 +6888,7 @@
         {
           "file": "src/components/HistoryChartGroup.js",
           "display": true,
-          "commit": "21c9debb9a8f24a2841ee6328429aca0759d2e6c",
+          "commit": "d4fdd268ee6e328ab7ab2affc0de13ec3de0774f",
           "type": "file",
           "children": [
             {
@@ -5073,16 +6908,11 @@
             {
               "type": "diff-block",
               "file": "src/components/HistoryChartGroup.js",
-              "commit": "21c9debb9a8f24a2841ee6328429aca0759d2e6c",
+              "commit": "d4fdd268ee6e328ab7ab2affc0de13ec3de0774f",
               "hiddenLines": [],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -5105,7 +6935,7 @@
         {
           "file": "src/components/SelectDataKey.js",
           "display": true,
-          "commit": "21c9debb9a8f24a2841ee6328429aca0759d2e6c",
+          "commit": "d4fdd268ee6e328ab7ab2affc0de13ec3de0774f",
           "type": "file",
           "children": [
             {
@@ -5125,16 +6955,11 @@
             {
               "type": "diff-block",
               "file": "src/components/SelectDataKey.js",
-              "commit": "21c9debb9a8f24a2841ee6328429aca0759d2e6c",
+              "commit": "d4fdd268ee6e328ab7ab2affc0de13ec3de0774f",
               "hiddenLines": [],
               "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": ""
                 }
               ]
             },
@@ -5173,6 +6998,13 @@
   ],
   "version": "v1",
   "remotes": [
+    {
+      "name": "gitee",
+      "refs": {
+        "fetch": "https://gitee.com/tuture/covid-19-with-hooks.git",
+        "push": "https://gitee.com/tuture/covid-19-with-hooks.git"
+      }
+    },
     {
       "name": "origin",
       "refs": {
