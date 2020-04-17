@@ -12,6 +12,11 @@
         "React",
         "React Hooks"
       ],
+      "categories": [
+        "前端",
+        "React",
+        "入门"
+      ],
       "cover": "https://imgkr.cn-bj.ufileos.com/7425c4bd-a180-4b4f-8c01-350c639d1dff.png"
     },
     {
@@ -22,7 +27,12 @@
         "React",
         "React Hooks"
       ],
-      "cover": "",
+      "categories": [
+        "前端",
+        "React",
+        "入门"
+      ],
+      "cover": "https://imgkr.cn-bj.ufileos.com/daf8a0a8-30d2-417d-9b84-583b48b16bfa.png",
       "description": "在第二篇教程中，我们将手把手带你用自定义 Hook 重构之前的组件代码，让它变得更清晰、并且可以实现逻辑复用。在重构完成之后，我们陷入了组件“不断获取数据并重新渲染”的无限循环，这时候，useCallback 站了出来，如同定海神针一般拯救了我们的应用……"
     }
   ],
