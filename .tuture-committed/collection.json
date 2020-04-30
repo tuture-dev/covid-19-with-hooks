@@ -1283,14 +1283,14 @@
       ]
     },
     {
-      "commit": "d3959380bd3c26faacb5d9ff48e7dcfa27f37f1d",
+      "commit": "5d8232d260cfb7e1885575ce1513d3f07d662a30",
       "id": "8WKNQED4Nh",
       "articleId": "870a7b7da39c3a83aba08cbbe5840859",
       "type": "step",
       "children": [
         {
           "type": "heading-two",
-          "commit": "d3959380bd3c26faacb5d9ff48e7dcfa27f37f1d",
+          "commit": "5d8232d260cfb7e1885575ce1513d3f07d662a30",
           "id": "ujaGivVg4e",
           "fixed": true,
           "children": [
@@ -2362,7 +2362,7 @@
         {
           "file": "src/components/GlobalStats.js",
           "display": true,
-          "commit": "d3959380bd3c26faacb5d9ff48e7dcfa27f37f1d",
+          "commit": "5d8232d260cfb7e1885575ce1513d3f07d662a30",
           "type": "file",
           "children": [
             {
@@ -2398,7 +2398,7 @@
             {
               "type": "diff-block",
               "file": "src/components/GlobalStats.js",
-              "commit": "d3959380bd3c26faacb5d9ff48e7dcfa27f37f1d",
+              "commit": "5d8232d260cfb7e1885575ce1513d3f07d662a30",
               "hiddenLines": [],
               "children": [
                 {
@@ -2432,7 +2432,7 @@
         {
           "file": "src/App.js",
           "display": true,
-          "commit": "d3959380bd3c26faacb5d9ff48e7dcfa27f37f1d",
+          "commit": "5d8232d260cfb7e1885575ce1513d3f07d662a30",
           "type": "file",
           "children": [
             {
@@ -2466,7 +2466,7 @@
             {
               "type": "diff-block",
               "file": "src/App.js",
-              "commit": "d3959380bd3c26faacb5d9ff48e7dcfa27f37f1d",
+              "commit": "5d8232d260cfb7e1885575ce1513d3f07d662a30",
               "hiddenLines": [],
               "children": [
                 {
@@ -2655,7 +2655,7 @@
         {
           "file": "src/App.css",
           "display": true,
-          "commit": "d3959380bd3c26faacb5d9ff48e7dcfa27f37f1d",
+          "commit": "5d8232d260cfb7e1885575ce1513d3f07d662a30",
           "type": "file",
           "children": [
             {
@@ -2675,7 +2675,7 @@
             {
               "type": "diff-block",
               "file": "src/App.css",
-              "commit": "d3959380bd3c26faacb5d9ff48e7dcfa27f37f1d",
+              "commit": "5d8232d260cfb7e1885575ce1513d3f07d662a30",
               "hiddenLines": [],
               "children": [
                 {
@@ -2740,14 +2740,14 @@
       ]
     },
     {
-      "commit": "5614617c0a500719b5be6f66864b7688cec9bc3b",
+      "commit": "aca177468ecb4220a336d0d8f91e36f9bdd70b97",
       "id": "n6JOc9G9a-",
       "articleId": "870a7b7da39c3a83aba08cbbe5840859",
       "type": "step",
       "children": [
         {
           "type": "heading-two",
-          "commit": "5614617c0a500719b5be6f66864b7688cec9bc3b",
+          "commit": "aca177468ecb4220a336d0d8f91e36f9bdd70b97",
           "id": "SjEppER7xa",
           "fixed": true,
           "children": [
@@ -3343,7 +3343,7 @@
             {
               "type": "diff-block",
               "file": ".gitignore",
-              "commit": "5614617c0a500719b5be6f66864b7688cec9bc3b",
+              "commit": "aca177468ecb4220a336d0d8f91e36f9bdd70b97",
               "hiddenLines": [
                 [
                   0,
@@ -3375,7 +3375,7 @@
         {
           "file": "package.json",
           "display": false,
-          "commit": "5614617c0a500719b5be6f66864b7688cec9bc3b",
+          "commit": "aca177468ecb4220a336d0d8f91e36f9bdd70b97",
           "type": "file",
           "children": [
             {
@@ -3395,7 +3395,7 @@
             {
               "type": "diff-block",
               "file": "package.json",
-              "commit": "5614617c0a500719b5be6f66864b7688cec9bc3b",
+              "commit": "aca177468ecb4220a336d0d8f91e36f9bdd70b97",
               "hiddenLines": [
                 [
                   0,
@@ -3427,7 +3427,7 @@
         {
           "file": "src/components/CountriesChart.js",
           "display": true,
-          "commit": "5614617c0a500719b5be6f66864b7688cec9bc3b",
+          "commit": "aca177468ecb4220a336d0d8f91e36f9bdd70b97",
           "type": "file",
           "children": [
             {
@@ -3500,7 +3500,7 @@
             {
               "type": "diff-block",
               "file": "src/components/CountriesChart.js",
-              "commit": "5614617c0a500719b5be6f66864b7688cec9bc3b",
+              "commit": "aca177468ecb4220a336d0d8f91e36f9bdd70b97",
               "hiddenLines": [],
               "children": [
                 {
@@ -3527,7 +3527,7 @@
         {
           "file": "src/components/SelectDataKey.js",
           "display": true,
-          "commit": "5614617c0a500719b5be6f66864b7688cec9bc3b",
+          "commit": "aca177468ecb4220a336d0d8f91e36f9bdd70b97",
           "type": "file",
           "children": [
             {
@@ -3554,7 +3554,7 @@
             {
               "type": "diff-block",
               "file": "src/components/SelectDataKey.js",
-              "commit": "5614617c0a500719b5be6f66864b7688cec9bc3b",
+              "commit": "aca177468ecb4220a336d0d8f91e36f9bdd70b97",
               "hiddenLines": [],
               "children": [
                 {
@@ -3660,7 +3660,7 @@
         {
           "file": "src/App.js",
           "display": true,
-          "commit": "5614617c0a500719b5be6f66864b7688cec9bc3b",
+          "commit": "aca177468ecb4220a336d0d8f91e36f9bdd70b97",
           "type": "file",
           "children": [
             {
@@ -3687,7 +3687,7 @@
             {
               "type": "diff-block",
               "file": "src/App.js",
-              "commit": "5614617c0a500719b5be6f66864b7688cec9bc3b",
+              "commit": "aca177468ecb4220a336d0d8f91e36f9bdd70b97",
               "hiddenLines": [
                 [
                   0,
@@ -3803,7 +3803,7 @@
         {
           "file": "yarn.lock",
           "display": false,
-          "commit": "5614617c0a500719b5be6f66864b7688cec9bc3b",
+          "commit": "aca177468ecb4220a336d0d8f91e36f9bdd70b97",
           "type": "file",
           "children": [
             {
@@ -3823,7 +3823,7 @@
             {
               "type": "diff-block",
               "file": "yarn.lock",
-              "commit": "5614617c0a500719b5be6f66864b7688cec9bc3b",
+              "commit": "aca177468ecb4220a336d0d8f91e36f9bdd70b97",
               "hiddenLines": [
                 [
                   0,
@@ -4124,14 +4124,14 @@
       ]
     },
     {
-      "commit": "6051606ab01aec826d214e8ff3ea35642ab672d8",
+      "commit": "a5434a86386ae4e43edde5e3689867e1f4c6faa5",
       "id": "Ag50v9VMg_",
       "articleId": "xocgOEMnq",
       "type": "step",
       "children": [
         {
           "type": "heading-two",
-          "commit": "6051606ab01aec826d214e8ff3ea35642ab672d8",
+          "commit": "a5434a86386ae4e43edde5e3689867e1f4c6faa5",
           "id": "aZReEOukqU",
           "fixed": true,
           "children": [
@@ -4580,7 +4580,7 @@
         {
           "file": "src/hooks/useCoronaAPI.js",
           "display": true,
-          "commit": "6051606ab01aec826d214e8ff3ea35642ab672d8",
+          "commit": "a5434a86386ae4e43edde5e3689867e1f4c6faa5",
           "type": "file",
           "children": [
             {
@@ -4631,7 +4631,7 @@
             {
               "type": "diff-block",
               "file": "src/hooks/useCoronaAPI.js",
-              "commit": "6051606ab01aec826d214e8ff3ea35642ab672d8",
+              "commit": "a5434a86386ae4e43edde5e3689867e1f4c6faa5",
               "hiddenLines": [],
               "children": [
                 {
@@ -4816,7 +4816,7 @@
         {
           "file": "src/App.js",
           "display": true,
-          "commit": "6051606ab01aec826d214e8ff3ea35642ab672d8",
+          "commit": "a5434a86386ae4e43edde5e3689867e1f4c6faa5",
           "type": "file",
           "children": [
             {
@@ -4850,7 +4850,7 @@
             {
               "type": "diff-block",
               "file": "src/App.js",
-              "commit": "6051606ab01aec826d214e8ff3ea35642ab672d8",
+              "commit": "a5434a86386ae4e43edde5e3689867e1f4c6faa5",
               "hiddenLines": [
                 [
                   3,
@@ -4943,14 +4943,14 @@
       ]
     },
     {
-      "commit": "cbccb105cf6b1e0e433aecbb3666d88c15f770f0",
+      "commit": "4cc12d8997aa0afde9916c73d96f4352b5b72a32",
       "id": "IX-CGX5ED7",
       "articleId": "xocgOEMnq",
       "type": "step",
       "children": [
         {
           "type": "heading-two",
-          "commit": "cbccb105cf6b1e0e433aecbb3666d88c15f770f0",
+          "commit": "4cc12d8997aa0afde9916c73d96f4352b5b72a32",
           "id": "K5OU_9Me3k",
           "fixed": true,
           "children": [
@@ -6155,7 +6155,7 @@
         {
           "file": "src/hooks/useCoronaAPI.js",
           "display": true,
-          "commit": "cbccb105cf6b1e0e433aecbb3666d88c15f770f0",
+          "commit": "4cc12d8997aa0afde9916c73d96f4352b5b72a32",
           "type": "file",
           "children": [
             {
@@ -6205,7 +6205,7 @@
             {
               "type": "diff-block",
               "file": "src/hooks/useCoronaAPI.js",
-              "commit": "cbccb105cf6b1e0e433aecbb3666d88c15f770f0",
+              "commit": "4cc12d8997aa0afde9916c73d96f4352b5b72a32",
               "hiddenLines": [
                 [
                   3,
@@ -6463,18 +6463,19 @@
       ]
     },
     {
-      "commit": "56410f311e3dfb874cd37903bba1cc06de6729e0",
+      "commit": "3050aa7a17490bdc945729b870475e717b37f247",
       "id": "R-p50_R7AK",
+      "articleId": null,
       "type": "step",
       "children": [
         {
           "type": "heading-two",
-          "commit": "56410f311e3dfb874cd37903bba1cc06de6729e0",
+          "commit": "3050aa7a17490bdc945729b870475e717b37f247",
           "id": "Z3Tg-lc1O7",
           "fixed": true,
           "children": [
             {
-              "text": "useState：三进三出"
+              "text": "useState：柳暗花明"
             }
           ]
         },
@@ -6486,119 +6487,757 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "file": "src/App.js",
-          "display": true,
-          "commit": "56410f311e3dfb874cd37903bba1cc06de6729e0",
-          "type": "file",
-          "children": [
-            {
-              "type": "explain",
-              "fixed": true,
-              "children": [
-                {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "text": ""
-                    }
-                  ]
+                  "text": "欢迎继续阅读《用动画和实战打开 React Hooks 系列》："
                 }
               ]
             },
             {
-              "type": "diff-block",
-              "file": "src/App.js",
-              "commit": "56410f311e3dfb874cd37903bba1cc06de6729e0",
-              "hiddenLines": [
-                [
-                  0,
-                  3
-                ],
-                [
-                  11,
-                  17
-                ]
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "《用动画和实战打开 React Hooks（一）：useState 和 useEffect》",
+                      "link": true,
+                      "url": "https://tuture.co/2020/04/08/870a7b7/"
+                    }
+                  ],
+                  "level": 0,
+                  "parent": "bulleted-list"
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "《用动画和实战打开 React Hooks（二）：自定义 Hook 和 useCallback》",
+                      "link": true,
+                      "url": "https://tuture.co/2020/04/14/xocgOEM/"
+                    }
+                  ],
+                  "level": 0,
+                  "parent": "bulleted-list"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "在这第三篇文章中，我们将首先来重温一下 "
+                },
+                {
+                  "text": "useState",
+                  "code": true
+                },
+                {
+                  "text": " 。在之前的两篇教程中，我们可以说和 "
+                },
+                {
+                  "text": "useState",
+                  "code": true
+                },
+                {
+                  "text": " 并肩作战了很久，是我们非常“熟悉”的老朋友了。但是回过头来，我们真的足够了解它吗？"
+                }
+              ]
+            },
+            {
+              "type": "heading-three",
+              "children": [
+                {
+                  "text": "一个未解决的问题"
+                }
               ],
+              "id": "8KN1gWAP-"
+            },
+            {
+              "type": "paragraph",
               "children": [
                 {
-                  "text": ""
+                  "text": "你很有可能在使用 "
+                },
+                {
+                  "text": "useState",
+                  "code": true
+                },
+                {
+                  "text": " 的时候遇到过一个问题：通过 Setter 修改状态的时候，怎么读取上一个状态值，并在此基础上修改呢？如果你看文档足够细致，应该会注意到 "
+                },
+                {
+                  "text": "useState",
+                  "code": true
+                },
+                {
+                  "text": " 有一个"
+                },
+                {
+                  "text": "函数式更新",
+                  "bold": true
+                },
+                {
+                  "text": "（Functional Update）的用法，以下面这段计数器（代码来自 "
+                },
+                {
+                  "text": "React 官网",
+                  "link": true,
+                  "url": "https://reactjs.org/docs/hooks-reference.html#functional-updates"
+                },
+                {
+                  "text": "）为例："
                 }
               ]
             },
             {
-              "type": "explain",
-              "fixed": true,
+              "type": "code-block",
+              "lang": "js",
               "children": [
                 {
-                  "type": "paragraph",
+                  "type": "code-line",
                   "children": [
                     {
-                      "text": ""
+                      "text": "function Counter({initialCount}) {"
                     }
                   ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "file": "src/components/CountriesChart.js",
-          "display": true,
-          "commit": "56410f311e3dfb874cd37903bba1cc06de6729e0",
-          "type": "file",
-          "children": [
-            {
-              "type": "explain",
-              "fixed": true,
-              "children": [
+                },
                 {
-                  "type": "paragraph",
+                  "type": "code-line",
                   "children": [
                     {
-                      "text": ""
+                      "text": "  const [count, setCount] = useState(initialCount);"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  return ("
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "    <>"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "      Count: {count}"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "      <button onClick={() => setCount(initialCount)}>Reset</button>"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "      <button onClick={() => setCount(prevCount => prevCount - 1)}>-</button>"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "      <button onClick={() => setCount(prevCount => prevCount + 1)}>+</button>"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "    </>"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  );"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "}"
                     }
                   ]
                 }
               ]
             },
             {
-              "type": "diff-block",
-              "file": "src/components/CountriesChart.js",
-              "commit": "56410f311e3dfb874cd37903bba1cc06de6729e0",
-              "hiddenLines": [
-                [
-                  0,
-                  7
-                ],
-                [
-                  16,
-                  16
-                ]
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "可以看到，我们传入 "
+                },
+                {
+                  "text": "setCount",
+                  "code": true
+                },
+                {
+                  "text": " 的是一个函数，"
+                },
+                {
+                  "text": "它的参数是之前的状态，返回的是新的状态",
+                  "bold": true
+                },
+                {
+                  "text": "。熟悉 Redux 的朋友马上就指出来了：这其实就是一个 "
+                },
+                {
+                  "text": "Reducer 函数",
+                  "link": true,
+                  "url": "https://redux.js.org/basics/reducers"
+                },
+                {
+                  "text": "。"
+                }
+              ]
+            },
+            {
+              "type": "heading-three",
+              "children": [
+                {
+                  "text": "Reducer 函数的前生今世"
+                }
               ],
+              "id": "cry7CuTqZ"
+            },
+            {
+              "type": "paragraph",
               "children": [
                 {
-                  "text": ""
+                  "text": "Redux 文档里面已经详细地阐述了 "
+                },
+                {
+                  "text": "Reducer 函数",
+                  "link": true,
+                  "url": "https://redux.js.org/basics/reducers"
+                },
+                {
+                  "text": "，但是我们这里将先回归最基础的概念，暂时忘掉框架相关的知识。在学习 JavaScript 基础时，你应该接触过数组的 "
+                },
+                {
+                  "text": "reduce",
+                  "code": true
+                },
+                {
+                  "text": " 方法，它可以用一种相当炫酷的方式实现数组求和："
                 }
               ]
             },
             {
-              "type": "explain",
-              "fixed": true,
+              "type": "code-block",
+              "lang": "js",
               "children": [
                 {
-                  "type": "paragraph",
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "const nums = [1, 2, 3]"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "const value = nums.reduce((acc, next) => acc + next, 0)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "其中 "
+                },
+                {
+                  "text": "reduce",
+                  "code": true
+                },
+                {
+                  "text": " 的第一个参数 "
+                },
+                {
+                  "text": "(acc, next) => acc + next",
+                  "code": true
+                },
+                {
+                  "text": " 就是一个 Reducer 函数。从表面上来看，这个函数接受一个状态的累积值 "
+                },
+                {
+                  "text": "acc",
+                  "code": true
+                },
+                {
+                  "text": " 和新的值 "
+                },
+                {
+                  "text": "next",
+                  "code": true
+                },
+                {
+                  "text": "，然后返回更新过后的累积值 "
+                },
+                {
+                  "text": "acc + next",
+                  "code": true
+                },
+                {
+                  "text": "。从更深层次来说，Reducer 函数有"
+                },
+                {
+                  "text": "两个必要规则",
+                  "bold": true
+                },
+                {
+                  "text": "："
+                }
+              ]
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "只返回一个值"
+                    }
+                  ],
+                  "level": 0,
+                  "parent": "bulleted-list"
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "不修改输入值，而是返回新的值"
+                    }
+                  ],
+                  "level": 0,
+                  "parent": "bulleted-list"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "第一点很好判断，其中第二点则是很多新手踩过的坑，对比以下两个函数："
+                }
+              ]
+            },
+            {
+              "type": "code-block",
+              "lang": "js",
+              "children": [
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "// 不是 Reducer 函数！"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "function buy(cart, thing) {"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  cart.push(thing);"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  return cart;"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "}"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
                   "children": [
                     {
                       "text": ""
                     }
                   ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "// 正宗的 Reducer 函数"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "function buy(cart, thing) {"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  return cart.concat(thing);"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "上面的函数调用了数组的 "
+                },
+                {
+                  "text": "push",
+                  "code": true
+                },
+                {
+                  "text": " 方法，会"
+                },
+                {
+                  "text": "就地修改",
+                  "bold": true
+                },
+                {
+                  "text": "输入的 "
+                },
+                {
+                  "text": "cart",
+                  "code": true
+                },
+                {
+                  "text": " 参数（是否 "
+                },
+                {
+                  "text": "return",
+                  "code": true
+                },
+                {
+                  "text": " 都无所谓了），违反了 Reducer 第二条规则，而下面的函数通过数组的 "
+                },
+                {
+                  "text": "concat",
+                  "code": true
+                },
+                {
+                  "text": " 方法返回了一个"
+                },
+                {
+                  "text": "全新的数组",
+                  "bold": true
+                },
+                {
+                  "text": "，避免了直接修改 "
+                },
+                {
+                  "text": "cart",
+                  "code": true
+                },
+                {
+                  "text": " 。"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "我们回过头来看之前 "
+                },
+                {
+                  "text": "useState",
+                  "code": true
+                },
+                {
+                  "text": " 的函数式更新写法："
+                }
+              ]
+            },
+            {
+              "type": "code-block",
+              "lang": "js",
+              "children": [
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "setCount(prevCount => prevCount + 1);"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "是不是一个很标准的 Reducer？"
+                }
+              ]
+            },
+            {
+              "type": "heading-three",
+              "children": [
+                {
+                  "text": "最熟悉的陌生人"
+                }
+              ],
+              "id": "8Iq8Dhy6J"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "我们在前两篇教程中大量地使用了 "
+                },
+                {
+                  "text": "useState",
+                  "code": true
+                },
+                {
+                  "text": "，你可能就此认为 "
+                },
+                {
+                  "text": "useState",
+                  "code": true
+                },
+                {
+                  "text": " 应该是最底层的"
+                },
+                {
+                  "text": "元素",
+                  "bold": true
+                },
+                {
+                  "text": "了。但实际上在 React 的源码中，"
+                },
+                {
+                  "text": "useState",
+                  "code": true
+                },
+                {
+                  "text": " 的实现使用了 "
+                },
+                {
+                  "text": "useReducer",
+                  "code": true
+                },
+                {
+                  "text": "（本文的主角，下面会讲到）。在 "
+                },
+                {
+                  "text": "React 源码",
+                  "link": true,
+                  "url": "https://github.com/facebook/react/blob/v16.13.1/packages/react-reconciler/src/ReactFiberHooks.js#L623"
+                },
+                {
+                  "text": "中有这么一个关键的函数 "
+                },
+                {
+                  "text": "basicStateReducer",
+                  "code": true
+                },
+                {
+                  "text": "（去掉了源码中的 "
+                },
+                {
+                  "text": "Flow",
+                  "link": true,
+                  "url": "https://flow.org/"
+                },
+                {
+                  "text": " 类型定义）："
+                }
+              ]
+            },
+            {
+              "type": "code-block",
+              "lang": "js",
+              "children": [
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "function basicStateReducer(state, action) {"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  return typeof action === 'function' ? action(state) : action;"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "于是，当我们通过 "
+                },
+                {
+                  "text": "setCount(prevCount => prevCount + 1)",
+                  "code": true
+                },
+                {
+                  "text": " 改变状态时，传入的 "
+                },
+                {
+                  "text": "action",
+                  "code": true
+                },
+                {
+                  "text": " 就是一个 Reducer 函数，然后调用该函数并传入当前的 "
+                },
+                {
+                  "text": "state",
+                  "code": true
+                },
+                {
+                  "text": "，得到更新后的状态。而我们之前通过传入具体的值修改状态时（例如 "
+                },
+                {
+                  "text": "setCount(5)",
+                  "code": true
+                },
+                {
+                  "text": "），由于不是函数，所以直接取传入的值作为更新后的状态。"
+                }
+              ]
+            },
+            {
+              "type": "note",
+              "level": "info",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "这里选取的是 "
+                    },
+                    {
+                      "text": "React v16.13.1",
+                      "link": true,
+                      "url": "https://github.com/facebook/react/tree/v16.13.1"
+                    },
+                    {
+                      "text": " 的源码，但是整体的实现应该已经趋于稳定，原理上不会相差太多。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "听上去还是有点迷迷糊糊？又到了我们的动画环节。首先，我们传入的 "
+                },
+                {
+                  "text": "action",
+                  "code": true
+                },
+                {
+                  "text": " 是一个具体的值："
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "url": "https://imgkr.cn-bj.ufileos.com/e3456450-0532-4f60-ad18-012f18bd00a7.gif"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "当传入 Setter 的是一个 Reducer 函数的时候："
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "url": "https://imgkr.cn-bj.ufileos.com/611f9506-4fce-40d3-beca-706bcaab7bbf.gif"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "是不是一下子就豁然开朗了？"
                 }
               ]
             }
@@ -6607,7 +7246,205 @@
         {
           "file": "src/components/HistoryChart.js",
           "display": true,
-          "commit": "56410f311e3dfb874cd37903bba1cc06de6729e0",
+          "commit": "3050aa7a17490bdc945729b870475e717b37f247",
+          "type": "file",
+          "children": [
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "heading-three",
+                  "children": [
+                    {
+                      "text": "实战环节"
+                    }
+                  ],
+                  "id": "NjL_8QL8A"
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "这一步要写的代码比较多（可自行复制粘贴哈），我们要实现如下图所示的历史趋势图展示效果："
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "heading-four",
+                  "children": [
+                    {
+                      "text": "实现历史趋势图"
+                    }
+                  ],
+                  "id": "NjL_8QL8A"
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "首先，让我们来实现历史曲线图 "
+                    },
+                    {
+                      "text": "HistoryChart",
+                      "code": true
+                    },
+                    {
+                      "text": " 组件。创建 "
+                    },
+                    {
+                      "text": "src/components/HistoryChart.js",
+                      "code": true
+                    },
+                    {
+                      "text": " 组件，代码如下："
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "diff-block",
+              "file": "src/components/HistoryChart.js",
+              "commit": "3050aa7a17490bdc945729b870475e717b37f247",
+              "hiddenLines": [],
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "这里我们使用了 "
+                    },
+                    {
+                      "text": "Recharts",
+                      "link": true,
+                      "url": "http://recharts.org/"
+                    },
+                    {
+                      "text": " 的 "
+                    },
+                    {
+                      "text": "AreaChart",
+                      "link": true,
+                      "url": "http://recharts.org/en-US/api/AreaChart"
+                    },
+                    {
+                      "text": " 组件来绘制历史趋势图，然后在图表下方添加了一个范围拖动条，能够让用户选择查看过去 1 到 30 天的历史趋势。"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "HistoryChart",
+                      "code": true
+                    },
+                    {
+                      "text": " 组件包含以下 Props："
+                    }
+                  ]
+                },
+                {
+                  "type": "bulleted-list",
+                  "children": [
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "title",
+                          "code": true
+                        },
+                        {
+                          "text": " 是图表标题"
+                        }
+                      ],
+                      "level": 0,
+                      "parent": "bulleted-list"
+                    },
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "data",
+                          "code": true
+                        },
+                        {
+                          "text": " 就是绘制图表需要的历史数据"
+                        }
+                      ],
+                      "level": 0,
+                      "parent": "bulleted-list"
+                    },
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "lastDays",
+                          "code": true
+                        },
+                        {
+                          "text": " 是显示过去 N 天的数据，可以通过 "
+                        },
+                        {
+                          "text": "data.slice(-lastDays)",
+                          "code": true
+                        },
+                        {
+                          "text": " 进行选择"
+                        }
+                      ],
+                      "level": 0,
+                      "parent": "bulleted-list"
+                    },
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "onLastDaysChange",
+                          "code": true
+                        },
+                        {
+                          "text": " 是用户通过 "
+                        },
+                        {
+                          "text": "input",
+                          "code": true
+                        },
+                        {
+                          "text": " 修改处理过去 N 天时的事件处理函数"
+                        }
+                      ],
+                      "level": 0,
+                      "parent": "bulleted-list"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "file": "src/utils.js",
+          "display": true,
+          "commit": "3050aa7a17490bdc945729b870475e717b37f247",
           "type": "file",
           "children": [
             {
@@ -6618,7 +7455,168 @@
                   "type": "paragraph",
                   "children": [
                     {
-                      "text": ""
+                      "text": "接着，我们需要一个辅助函数来对历史数据进行一些转换处理。NovelCOVID 19 API 返回的历史数据是一个对象："
+                    }
+                  ]
+                },
+                {
+                  "type": "code-block",
+                  "lang": "js",
+                  "children": [
+                    {
+                      "type": "code-line",
+                      "children": [
+                        {
+                          "text": "{"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "code-line",
+                      "children": [
+                        {
+                          "text": "  \"3/28/20\": 81999,"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "code-line",
+                      "children": [
+                        {
+                          "text": "  \"3/29/20\": 82122"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "code-line",
+                      "children": [
+                        {
+                          "text": "}"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "为了能够适应 Recharts 的数据格式，我们希望转换成数组格式："
+                    }
+                  ]
+                },
+                {
+                  "type": "code-block",
+                  "lang": "js",
+                  "children": [
+                    {
+                      "type": "code-line",
+                      "children": [
+                        {
+                          "text": "["
+                        }
+                      ]
+                    },
+                    {
+                      "type": "code-line",
+                      "children": [
+                        {
+                          "text": "  {"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "code-line",
+                      "children": [
+                        {
+                          "text": "    time: \"3/28/20\","
+                        }
+                      ]
+                    },
+                    {
+                      "type": "code-line",
+                      "children": [
+                        {
+                          "text": "    number: 81999"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "code-line",
+                      "children": [
+                        {
+                          "text": "  },"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "code-line",
+                      "children": [
+                        {
+                          "text": "  {"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "code-line",
+                      "children": [
+                        {
+                          "text": "    time: \"3/29/20\","
+                        }
+                      ]
+                    },
+                    {
+                      "type": "code-line",
+                      "children": [
+                        {
+                          "text": "    number: 82122"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "code-line",
+                      "children": [
+                        {
+                          "text": "  }"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "code-line",
+                      "children": [
+                        {
+                          "text": "]"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "这个可以通过 "
+                    },
+                    {
+                      "text": "Object.entries",
+                      "code": true
+                    },
+                    {
+                      "text": " 很方便地进行转换。我们创建 "
+                    },
+                    {
+                      "text": "src/utils.js",
+                      "code": true
+                    },
+                    {
+                      "text": " 文件，实现 "
+                    },
+                    {
+                      "text": "transformHistory",
+                      "code": true
+                    },
+                    {
+                      "text": " 函数，代码如下："
                     }
                   ]
                 }
@@ -6626,8 +7624,8 @@
             },
             {
               "type": "diff-block",
-              "file": "src/components/HistoryChart.js",
-              "commit": "56410f311e3dfb874cd37903bba1cc06de6729e0",
+              "file": "src/utils.js",
+              "commit": "3050aa7a17490bdc945729b870475e717b37f247",
               "hiddenLines": [],
               "children": [
                 {
@@ -6654,7 +7652,7 @@
         {
           "file": "src/components/HistoryChartGroup.js",
           "display": true,
-          "commit": "56410f311e3dfb874cd37903bba1cc06de6729e0",
+          "commit": "3050aa7a17490bdc945729b870475e717b37f247",
           "type": "file",
           "children": [
             {
@@ -6665,7 +7663,21 @@
                   "type": "paragraph",
                   "children": [
                     {
-                      "text": ""
+                      "text": "接着我们来实现历史趋势图组 "
+                    },
+                    {
+                      "text": "HistoryChartGroup",
+                      "code": true
+                    },
+                    {
+                      "text": "，包含三个图表：确诊病例（Cases）、死亡人数（Deaths）和治愈病例（Recovered）。创建 "
+                    },
+                    {
+                      "text": "src/components/HistoryChartGroup.js",
+                      "code": true
+                    },
+                    {
+                      "text": "，代码如下："
                     }
                   ]
                 }
@@ -6674,7 +7686,7 @@
             {
               "type": "diff-block",
               "file": "src/components/HistoryChartGroup.js",
-              "commit": "56410f311e3dfb874cd37903bba1cc06de6729e0",
+              "commit": "3050aa7a17490bdc945729b870475e717b37f247",
               "hiddenLines": [],
               "children": [
                 {
@@ -6699,11 +7711,86 @@
           ]
         },
         {
-          "file": "src/utils.js",
+          "file": "src/components/CountriesChart.js",
           "display": true,
-          "commit": "56410f311e3dfb874cd37903bba1cc06de6729e0",
+          "commit": "3050aa7a17490bdc945729b870475e717b37f247",
           "type": "file",
           "children": [
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "heading-four",
+                  "children": [
+                    {
+                      "text": "调整 CountriesChart 组件"
+                    }
+                  ],
+                  "id": "pYenfIi3Y"
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "我们需要稍微调整一下 "
+                    },
+                    {
+                      "text": "CountriesChart",
+                      "code": true
+                    },
+                    {
+                      "text": " 组件，使得用户在点击一个国家的数据后，能够展示对应的历史趋势图。打开 "
+                    },
+                    {
+                      "text": "src/components/CountriesChart.js",
+                      "code": true
+                    },
+                    {
+                      "text": "，添加一个 "
+                    },
+                    {
+                      "text": "onClick",
+                      "code": true
+                    },
+                    {
+                      "text": " Prop，并传入 "
+                    },
+                    {
+                      "text": "BarChart",
+                      "code": true
+                    },
+                    {
+                      "text": " 中，如下面的代码所示："
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "diff-block",
+              "file": "src/components/CountriesChart.js",
+              "commit": "3050aa7a17490bdc945729b870475e717b37f247",
+              "hiddenLines": [
+                [
+                  0,
+                  9
+                ],
+                [
+                  22,
+                  27
+                ],
+                [
+                  32,
+                  32
+                ]
+              ],
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
             {
               "type": "explain",
               "fixed": true,
@@ -6717,12 +7804,66 @@
                   ]
                 }
               ]
+            }
+          ]
+        },
+        {
+          "file": "src/App.js",
+          "display": true,
+          "commit": "3050aa7a17490bdc945729b870475e717b37f247",
+          "type": "file",
+          "children": [
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "heading-four",
+                  "children": [
+                    {
+                      "text": "在根组件中集成"
+                    }
+                  ],
+                  "id": "qKEUZ-VyK"
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "最后，我们调整根组件，把之前实现的历史趋势图和修改后的 "
+                    },
+                    {
+                      "text": "CountriesChart",
+                      "code": true
+                    },
+                    {
+                      "text": " 集成到应用中。打开 "
+                    },
+                    {
+                      "text": "src/App.js",
+                      "code": true
+                    },
+                    {
+                      "text": "，代码如下："
+                    }
+                  ]
+                }
+              ]
             },
             {
               "type": "diff-block",
-              "file": "src/utils.js",
-              "commit": "56410f311e3dfb874cd37903bba1cc06de6729e0",
-              "hiddenLines": [],
+              "file": "src/App.js",
+              "commit": "3050aa7a17490bdc945729b870475e717b37f247",
+              "hiddenLines": [
+                [
+                  0,
+                  6
+                ],
+                [
+                  10,
+                  19
+                ]
+              ],
               "children": [
                 {
                   "text": ""
@@ -6753,7 +7894,23 @@
               "type": "paragraph",
               "children": [
                 {
+                  "text": "写完之后开启项目，点击直方图中的任意一个国家，就会展示该国家的历史趋势图（累计确诊、死亡病例、治愈病例），我们还可以随意调节过去的天数："
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
                   "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "虽然现在我们的应用已经初步成型，但回过头来看代码，发现组件的状态和修改状态的逻辑散落在各个组件中，后面维护和实现新功能时无疑会遇到很大的困难。"
                 }
               ]
             }
@@ -6762,13 +7919,14 @@
       ]
     },
     {
-      "commit": "d4fdd268ee6e328ab7ab2affc0de13ec3de0774f",
+      "commit": "1c61d8d36db6c1f04b4214288e24c7057eae2c6e",
       "id": "jdEFK1seRU",
+      "articleId": null,
       "type": "step",
       "children": [
         {
           "type": "heading-two",
-          "commit": "d4fdd268ee6e328ab7ab2affc0de13ec3de0774f",
+          "commit": "1c61d8d36db6c1f04b4214288e24c7057eae2c6e",
           "id": "wwwzrDXGgl",
           "fixed": true,
           "children": [
@@ -6794,7 +7952,7 @@
         {
           "file": "src/App.js",
           "display": true,
-          "commit": "d4fdd268ee6e328ab7ab2affc0de13ec3de0774f",
+          "commit": "1c61d8d36db6c1f04b4214288e24c7057eae2c6e",
           "type": "file",
           "children": [
             {
@@ -6802,10 +7960,184 @@
               "fixed": true,
               "children": [
                 {
+                  "type": "heading-three",
+                  "children": [
+                    {
+                      "text": "实战环节"
+                    }
+                  ],
+                  "id": "kYnDnNo0i"
+                },
+                {
+                  "type": "heading-four",
+                  "children": [
+                    {
+                      "text": "设计中心状态"
+                    }
+                  ],
+                  "id": "bRCVFwh5I"
+                },
+                {
                   "type": "paragraph",
                   "children": [
                     {
-                      "text": ""
+                      "text": "好的，让我们开始用 useReducer + useContext 的组合来重构应用的状态管理。按照状态中心化的原则，我们把整个应用的状态提取到一个对象中。初步设计（TypeScript 类型定义）如下："
+                    }
+                  ]
+                },
+                {
+                  "type": "code-block",
+                  "lang": "ts",
+                  "children": [
+                    {
+                      "type": "code-line",
+                      "children": [
+                        {
+                          "text": "type AppState {"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "code-line",
+                      "children": [
+                        {
+                          "text": "  // 数据指标类别"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "code-line",
+                      "children": [
+                        {
+                          "text": "  key: \"cases\" | \"deaths\" | \"recovered\";"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "code-line",
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    },
+                    {
+                      "type": "code-line",
+                      "children": [
+                        {
+                          "text": "  // 当前国家"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "code-line",
+                      "children": [
+                        {
+                          "text": "  country: string | null;"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "code-line",
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    },
+                    {
+                      "type": "code-line",
+                      "children": [
+                        {
+                          "text": "  // 过去天数"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "code-line",
+                      "children": [
+                        {
+                          "text": "  lastDays: {"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "code-line",
+                      "children": [
+                        {
+                          "text": "    cases: number;"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "code-line",
+                      "children": [
+                        {
+                          "text": "    deaths: number;"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "code-line",
+                      "children": [
+                        {
+                          "text": "    recovered: number;"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "code-line",
+                      "children": [
+                        {
+                          "text": "  }"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "code-line",
+                      "children": [
+                        {
+                          "text": "}"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "heading-four",
+                  "children": [
+                    {
+                      "text": "在根组件中定义 Reducer 和 Dispatch Context"
+                    }
+                  ],
+                  "id": "oZmUtavj9"
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "这一次我们按照"
+                    },
+                    {
+                      "text": "自顶向下",
+                      "bold": true
+                    },
+                    {
+                      "text": "的顺序，先在根组件 "
+                    },
+                    {
+                      "text": "App",
+                      "code": true
+                    },
+                    {
+                      "text": " 中配置好所有需要的 Reducer 以及 Dispatch 上下文。打开 "
+                    },
+                    {
+                      "text": "src/App.js",
+                      "code": true
+                    },
+                    {
+                      "text": " ，修改代码如下："
                     }
                   ]
                 }
@@ -6814,11 +8146,11 @@
             {
               "type": "diff-block",
               "file": "src/App.js",
-              "commit": "d4fdd268ee6e328ab7ab2affc0de13ec3de0774f",
+              "commit": "1c61d8d36db6c1f04b4214288e24c7057eae2c6e",
               "hiddenLines": [
                 [
-                  5,
-                  6
+                  3,
+                  8
                 ]
               ],
               "children": [
@@ -6835,7 +8167,151 @@
                   "type": "paragraph",
                   "children": [
                     {
-                      "text": ""
+                      "text": "我们来一一分析上面的代码变化。"
+                    }
+                  ]
+                },
+                {
+                  "type": "numbered-list",
+                  "children": [
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "首先定义了整个应用的初始状态 "
+                        },
+                        {
+                          "text": "initialState",
+                          "code": true
+                        },
+                        {
+                          "text": "，这个是后面 "
+                        },
+                        {
+                          "text": "useReducer",
+                          "code": true
+                        },
+                        {
+                          "text": " 钩子所需要的"
+                        }
+                      ],
+                      "level": 0,
+                      "parent": "numbered-list",
+                      "number": 1
+                    },
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "然后我们定义了 Reducer 函数，主要响应三个 Action："
+                        },
+                        {
+                          "text": "SET_KEY",
+                          "code": true
+                        },
+                        {
+                          "text": " 、"
+                        },
+                        {
+                          "text": "SET_COUNTRY",
+                          "code": true
+                        },
+                        {
+                          "text": " 和 "
+                        },
+                        {
+                          "text": "SET_LASTDAYS",
+                          "code": true
+                        },
+                        {
+                          "text": " ，分别用于修改数据指标、国家和过去天数这三个状态"
+                        }
+                      ],
+                      "level": 0,
+                      "parent": "numbered-list",
+                      "number": 2
+                    },
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "定义了 "
+                        },
+                        {
+                          "text": "AppDispatch",
+                          "code": true
+                        },
+                        {
+                          "text": " 这个 Context，用来向子组件传递 "
+                        },
+                        {
+                          "text": "dispatch",
+                          "code": true
+                        },
+                        {
+                          "text": " "
+                        }
+                      ],
+                      "level": 0,
+                      "parent": "numbered-list",
+                      "number": 3
+                    },
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "调用 "
+                        },
+                        {
+                          "text": "useReducer",
+                          "code": true
+                        },
+                        {
+                          "text": " 钩子，获取到状态 "
+                        },
+                        {
+                          "text": "state",
+                          "code": true
+                        },
+                        {
+                          "text": " 和分发函数 "
+                        },
+                        {
+                          "text": "dispatch",
+                          "code": true
+                        },
+                        {
+                          "text": " "
+                        }
+                      ],
+                      "level": 0,
+                      "parent": "numbered-list",
+                      "number": 4
+                    },
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "最后在渲染时用 "
+                        },
+                        {
+                          "text": "AppDispatch.Provider",
+                          "code": true
+                        },
+                        {
+                          "text": " 将整个应用包裹起来，传入 "
+                        },
+                        {
+                          "text": "dispatch",
+                          "code": true
+                        },
+                        {
+                          "text": " ，使子组件都能获取得到"
+                        }
+                      ],
+                      "level": 0,
+                      "parent": "numbered-list",
+                      "number": 5
                     }
                   ]
                 }
@@ -6846,7 +8322,7 @@
         {
           "file": "src/components/CountriesChart.js",
           "display": true,
-          "commit": "d4fdd268ee6e328ab7ab2affc0de13ec3de0774f",
+          "commit": "1c61d8d36db6c1f04b4214288e24c7057eae2c6e",
           "type": "file",
           "children": [
             {
@@ -6854,10 +8330,94 @@
               "fixed": true,
               "children": [
                 {
+                  "type": "heading-four",
+                  "children": [
+                    {
+                      "text": "在子组件中通过 Dispatch 修改状态"
+                    }
+                  ],
+                  "id": "On85ZvdU-"
+                },
+                {
                   "type": "paragraph",
                   "children": [
                     {
-                      "text": ""
+                      "text": "现在子组件的所有状态都已经提取到了根组件中，而子组件唯一要做的就是在响应用户事件时通过 "
+                    },
+                    {
+                      "text": "dispatch",
+                      "code": true
+                    },
+                    {
+                      "text": " 去修改中心状态。思路非常简单："
+                    }
+                  ]
+                },
+                {
+                  "type": "bulleted-list",
+                  "children": [
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "先通过 "
+                        },
+                        {
+                          "text": "useContext",
+                          "code": true
+                        },
+                        {
+                          "text": " 获取到 "
+                        },
+                        {
+                          "text": "App",
+                          "code": true
+                        },
+                        {
+                          "text": " 组件传下来的 "
+                        },
+                        {
+                          "text": "dispatch",
+                          "code": true
+                        },
+                        {
+                          "text": " "
+                        }
+                      ],
+                      "level": 0,
+                      "parent": "bulleted-list"
+                    },
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "调用 "
+                        },
+                        {
+                          "text": "dispatch",
+                          "code": true
+                        },
+                        {
+                          "text": " ，发起相应的动作（Action）"
+                        }
+                      ],
+                      "level": 0,
+                      "parent": "bulleted-list"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "OK，让我们开始动手吧。打开 "
+                    },
+                    {
+                      "text": "src/components/CountriesChart.js",
+                      "code": true
+                    },
+                    {
+                      "text": " ，修改代码如下："
                     }
                   ]
                 }
@@ -6866,11 +8426,15 @@
             {
               "type": "diff-block",
               "file": "src/components/CountriesChart.js",
-              "commit": "d4fdd268ee6e328ab7ab2affc0de13ec3de0774f",
+              "commit": "1c61d8d36db6c1f04b4214288e24c7057eae2c6e",
               "hiddenLines": [
                 [
-                  5,
-                  7
+                  2,
+                  10
+                ],
+                [
+                  24,
+                  38
                 ]
               ],
               "children": [
@@ -6898,7 +8462,7 @@
         {
           "file": "src/components/HistoryChartGroup.js",
           "display": true,
-          "commit": "d4fdd268ee6e328ab7ab2affc0de13ec3de0774f",
+          "commit": "1c61d8d36db6c1f04b4214288e24c7057eae2c6e",
           "type": "file",
           "children": [
             {
@@ -6909,16 +8473,24 @@
                   "type": "paragraph",
                   "children": [
                     {
-                      "text": ""
+                      "text": "按照同样的思路，我们来修改 "
+                    },
+                    {
+                      "text": "src/components/HistoryChartGroup.js",
+                      "code": true
+                    },
+                    {
+                      "text": " 组件："
                     }
-                  ]
+                  ],
+                  "id": "j2lX_L-cl"
                 }
               ]
             },
             {
               "type": "diff-block",
               "file": "src/components/HistoryChartGroup.js",
-              "commit": "d4fdd268ee6e328ab7ab2affc0de13ec3de0774f",
+              "commit": "1c61d8d36db6c1f04b4214288e24c7057eae2c6e",
               "hiddenLines": [],
               "children": [
                 {
@@ -6945,7 +8517,7 @@
         {
           "file": "src/components/SelectDataKey.js",
           "display": true,
-          "commit": "d4fdd268ee6e328ab7ab2affc0de13ec3de0774f",
+          "commit": "1c61d8d36db6c1f04b4214288e24c7057eae2c6e",
           "type": "file",
           "children": [
             {
@@ -6956,7 +8528,14 @@
                   "type": "paragraph",
                   "children": [
                     {
-                      "text": ""
+                      "text": "最后一公里，修改 "
+                    },
+                    {
+                      "text": "src/components/SelectDataKey.js",
+                      "code": true
+                    },
+                    {
+                      "text": " ："
                     }
                   ]
                 }
@@ -6965,7 +8544,7 @@
             {
               "type": "diff-block",
               "file": "src/components/SelectDataKey.js",
-              "commit": "d4fdd268ee6e328ab7ab2affc0de13ec3de0774f",
+              "commit": "1c61d8d36db6c1f04b4214288e24c7057eae2c6e",
               "hiddenLines": [],
               "children": [
                 {
@@ -6993,6 +8572,15 @@
           "type": "explain",
           "fixed": true,
           "children": [
+            {
+              "type": "heading-three",
+              "children": [
+                {
+                  "text": "Redux 还有用吗？"
+                }
+              ],
+              "id": "aPOWSLfYn"
+            },
             {
               "type": "paragraph",
               "children": [
