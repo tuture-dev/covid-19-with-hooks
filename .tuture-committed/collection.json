@@ -34,6 +34,22 @@
       ],
       "cover": "https://imgkr.cn-bj.ufileos.com/daf8a0a8-30d2-417d-9b84-583b48b16bfa.png",
       "description": "在第二篇教程中，我们将手把手带你用自定义 Hook 重构之前的组件代码，让它变得更清晰、并且可以实现逻辑复用。在重构完成之后，我们陷入了组件“不断获取数据并重新渲染”的无限循环，这时候，useCallback 站了出来，如同定海神针一般拯救了我们的应用……"
+    },
+    {
+      "id": "689bb434",
+      "created": "2020-05-05T11:06:36.489Z",
+      "name": "用动画和实战打开 React Hooks（三）：useReducer 和 useContext",
+      "topics": [
+        "React",
+        "React Hooks"
+      ],
+      "categories": [
+        "前端",
+        "React",
+        "入门"
+      ],
+      "cover": "https://imgkr.cn-bj.ufileos.com/0b43fd6d-a3a9-40d9-8ae5-3a9b4c16f55a.jpg",
+      "description": "随着应用状态越来越复杂，我们迫切需要状态与数据流管理的解决方案。熟悉 React 开发的同学一定听说过 Redux，而在这篇文章中，我们将通过 useReducer + useContext 的组合实现一个简易版的 Redux。首先，我们将带你重新认识“老朋友”useState，并借此引出这篇文章的主角：Reducer 函数与 useReducer 钩子，并通过实战一步步带你理清数据流和状态管理的基本思想。"
     }
   ],
   "steps": [
@@ -6465,7 +6481,7 @@
     {
       "commit": "3050aa7a17490bdc945729b870475e717b37f247",
       "id": "R-p50_R7AK",
-      "articleId": null,
+      "articleId": "689bb434",
       "type": "step",
       "children": [
         {
@@ -6517,6 +6533,52 @@
                   ],
                   "level": 0,
                   "parent": "bulleted-list"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "如果你想要直接从这一篇开始学习，那么请克隆我们为你提供的源代码："
+                }
+              ]
+            },
+            {
+              "type": "code-block",
+              "lang": "bash",
+              "children": [
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "git clone -b third-part https://github.com/tuture-dev/covid-19-with-hooks.git"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "# 如果你访问 GitHub 不流畅，我们还提供了 Gitee 地址"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "git clone -b third-part https://gitee.com/tuture/covid-19-with-hooks.git"
+                    }
+                  ]
                 }
               ]
             },
@@ -7271,10 +7333,19 @@
                   ]
                 },
                 {
-                  "type": "paragraph",
+                  "type": "image",
                   "children": [
                     {
                       "text": ""
+                    }
+                  ],
+                  "url": "https://imgkr.cn-bj.ufileos.com/4a1444db-7c7a-42ef-8b90-fc3aae02ec54.png"
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "注意到我们展示了三个历史趋势（确诊病例 Cases、死亡病例 Deaths 和治愈病例 Recovered），并且每张历史趋势图可以调节过去的天数（从 0 到 30 天）。"
                     }
                   ]
                 },
@@ -7891,10 +7962,16 @@
           "fixed": true,
           "children": [
             {
-              "type": "paragraph",
+              "type": "note",
+              "level": "success",
               "children": [
                 {
-                  "text": "写完之后开启项目，点击直方图中的任意一个国家，就会展示该国家的历史趋势图（累计确诊、死亡病例、治愈病例），我们还可以随意调节过去的天数："
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "写完之后开启项目，点击直方图中的任意一个国家，就会展示该国家的历史趋势图（累计确诊、死亡病例、治愈病例），我们还可以随意调节过去的天数。"
+                    }
+                  ]
                 }
               ]
             },
@@ -7902,15 +7979,23 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
+                  "text": "虽然现在我们的应用已经初步成型，但回过头来看代码，发现组件的状态和修改状态的逻辑散落在各个组件中，后面维护和实现新功能时无疑会遇到很大的困难，这时候就需要做专门的状态管理了。熟悉 React 开发的同学一定知道 "
+                },
                 {
-                  "text": "虽然现在我们的应用已经初步成型，但回过头来看代码，发现组件的状态和修改状态的逻辑散落在各个组件中，后面维护和实现新功能时无疑会遇到很大的困难。"
+                  "text": "Redux",
+                  "link": true,
+                  "url": "https://redux.js.org/"
+                },
+                {
+                  "text": " 或者 "
+                },
+                {
+                  "text": "MobX",
+                  "link": true,
+                  "url": "https://mobx.js.org/README.html"
+                },
+                {
+                  "text": " 这样的库，不过借助 React Hooks，我们可以自己轻松地实现一个轻量级的状态管理解决方案。"
                 }
               ]
             }
@@ -7921,7 +8006,7 @@
     {
       "commit": "1c61d8d36db6c1f04b4214288e24c7057eae2c6e",
       "id": "jdEFK1seRU",
-      "articleId": null,
+      "articleId": "689bb434",
       "type": "step",
       "children": [
         {
@@ -7943,7 +8028,1102 @@
               "type": "paragraph",
               "children": [
                 {
+                  "text": "在之前我们说过，这篇文章将通过 React Hooks 来实现一个轻量级的、类似 Redux 的状态管理模型。不过在此之前，我们先简单地过一遍 Redux 的基本思想（熟悉的同学可以直接跳过哈）。"
+                }
+              ]
+            },
+            {
+              "type": "heading-three",
+              "children": [
+                {
+                  "text": "Redux 基本思想"
+                }
+              ],
+              "id": "JNB6rSni9"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "之前，应用的状态（例如我们应用中当前国家、历史数据等等）散落在各个组件中，大概就像这样："
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "children": [
+                {
                   "text": ""
+                }
+              ],
+              "url": "https://imgkr.cn-bj.ufileos.com/a79e0ef9-5518-4a15-ba91-fb99695ca8e6.png"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "可以看到，每个组件都有自己的 State（状态）和 State Setter（状态修改函数），这意味着跨组件的状态读取和修改是相当麻烦的。而 Redux 的核心思想之一就是将状态放到"
+                },
+                {
+                  "text": "唯一的全局对象",
+                  "bold": true
+                },
+                {
+                  "text": "（一般称为 Store）中，而修改状态则是调用对应的 Reducer 函数去更新 Store 中的状态，大概就像这样："
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "url": "https://imgkr.cn-bj.ufileos.com/6f8147ee-aba5-499b-b7e9-0d3dca857ba8.gif"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "上面这个动画描述的是组件 A 改变 B 和 C 中状态的过程："
+                }
+              ]
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "三个组件挂载时，从 Store 中"
+                    },
+                    {
+                      "text": "获取并订阅",
+                      "bold": true
+                    },
+                    {
+                      "text": "相应的状态数据并展示（注意是"
+                    },
+                    {
+                      "text": "只读",
+                      "bold": true
+                    },
+                    {
+                      "text": "的，不能直接修改）"
+                    }
+                  ],
+                  "level": 0,
+                  "parent": "bulleted-list"
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "用户点击组件 A，触发事件监听函数"
+                    }
+                  ],
+                  "level": 0,
+                  "parent": "bulleted-list"
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "监听函数中派发（Dispatch）对应的动作（Action），传入 Reducer 函数"
+                    }
+                  ],
+                  "level": 0,
+                  "parent": "bulleted-list"
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Reducer 函数返回更新后的状态，并以此更新 Store"
+                    }
+                  ],
+                  "level": 0,
+                  "parent": "bulleted-list"
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "由于组件 B 和 C 订阅了 Store 的状态，所以重新获取更新后的状态并调整 UI"
+                    }
+                  ],
+                  "level": 0,
+                  "parent": "bulleted-list"
+                }
+              ]
+            },
+            {
+              "type": "note",
+              "level": "info",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "这篇教程不会详细地讲解 Redux，想要深入学习的同学可以阅读我们的"
+                    },
+                    {
+                      "text": "《Redux 包教包会》",
+                      "link": true,
+                      "url": "https://tuture.co/2019/11/28/1fe175a/"
+                    },
+                    {
+                      "text": "系列教程。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading-three",
+              "children": [
+                {
+                  "text": "useReducer 使用浅析"
+                }
+              ],
+              "id": "001QuK4n_"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "首先，我们还是来看下官方介绍的 "
+                },
+                {
+                  "text": "useReducer",
+                  "code": true
+                },
+                {
+                  "text": " 使用方法："
+                }
+              ]
+            },
+            {
+              "type": "code-block",
+              "lang": "js",
+              "children": [
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "const [state, dispatch] = useReducer(reducer, initialArg, init);"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "首先我们来看下 "
+                },
+                {
+                  "text": "useReducer",
+                  "code": true
+                },
+                {
+                  "text": " 需要提供哪些参数："
+                }
+              ]
+            },
+            {
+              "type": "numbered-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "第一个参数 "
+                    },
+                    {
+                      "text": "reducer",
+                      "code": true
+                    },
+                    {
+                      "text": " 显然是必须的，它的形式跟 Redux 中的 Reducer 函数完全一致，即 "
+                    },
+                    {
+                      "text": "(state, action) => newState",
+                      "code": true
+                    },
+                    {
+                      "text": "。"
+                    }
+                  ],
+                  "level": 0,
+                  "parent": "numbered-list",
+                  "number": 1
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "第二个参数 "
+                    },
+                    {
+                      "text": "initialArg",
+                      "code": true
+                    },
+                    {
+                      "text": " 就是状态的初始值。"
+                    }
+                  ],
+                  "level": 0,
+                  "parent": "numbered-list",
+                  "number": 2
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "第三个参数 "
+                    },
+                    {
+                      "text": "init",
+                      "code": true
+                    },
+                    {
+                      "text": " 是一个可选的用于"
+                    },
+                    {
+                      "text": "懒初始化",
+                      "bold": true
+                    },
+                    {
+                      "text": "（Lazy Initialization）的函数，这个函数返回初始化后的状态。"
+                    }
+                  ],
+                  "level": 0,
+                  "parent": "numbered-list",
+                  "number": 3
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "返回的 "
+                },
+                {
+                  "text": "state",
+                  "code": true
+                },
+                {
+                  "text": "（只读状态）和 "
+                },
+                {
+                  "text": "dispatch",
+                  "code": true
+                },
+                {
+                  "text": "（派发函数）则比较容易理解了。我们来结合一个简单的计数器例子讲解一下："
+                }
+              ]
+            },
+            {
+              "type": "code-block",
+              "lang": "js",
+              "children": [
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "// Reducer 函数"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "function reducer(state, action) {"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  switch (action.type) {"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "    case 'increment':"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "      return { count: state.count + 1 };"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "    default:"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "      throw new Error();"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  }"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "}"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "function Counter() {"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  const [state, dispatch] = useReducer(reducer, { count: 0 });"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  return ("
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "    <>"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "      Count: {state.count}"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "      <button onClick={() => dispatch({ type: 'increment' })}>+</button>"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "    </>"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  );"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "我们首先关注一下 Reducer 函数，它的两个参数 "
+                },
+                {
+                  "text": "state",
+                  "code": true
+                },
+                {
+                  "text": " 和 "
+                },
+                {
+                  "text": "action",
+                  "code": true
+                },
+                {
+                  "text": " 分别是当前状态和 "
+                },
+                {
+                  "text": "dispatch",
+                  "code": true
+                },
+                {
+                  "text": " 派发的动作。这里的动作就是普通的 JavaScript 对象，用来表示修改状态的操作，注意 "
+                },
+                {
+                  "text": "type",
+                  "code": true
+                },
+                {
+                  "text": " 是必须要有的属性，代表"
+                },
+                {
+                  "text": "动作的类型",
+                  "bold": true
+                },
+                {
+                  "text": "。然后我们根据 "
+                },
+                {
+                  "text": "action",
+                  "code": true
+                },
+                {
+                  "text": " 的类型返回相应修改后的新状态。"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "然后在 "
+                },
+                {
+                  "text": "Counter",
+                  "code": true
+                },
+                {
+                  "text": " 组件中，我们通过 "
+                },
+                {
+                  "text": "useReducer",
+                  "code": true
+                },
+                {
+                  "text": " 钩子获取到了状态和 "
+                },
+                {
+                  "text": "dispatch",
+                  "code": true
+                },
+                {
+                  "text": " 函数，然后把这个状态渲染出来。在按钮 "
+                },
+                {
+                  "text": "button",
+                  "code": true
+                },
+                {
+                  "text": " 的 "
+                },
+                {
+                  "text": "onClick",
+                  "code": true
+                },
+                {
+                  "text": " 回调函数中，我们通过 "
+                },
+                {
+                  "text": "dispatch",
+                  "code": true
+                },
+                {
+                  "text": " 一个类型为 "
+                },
+                {
+                  "text": "increment",
+                  "code": true
+                },
+                {
+                  "text": " 的 Action 去更新状态。"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "天哪，为什么一个简单的计数器都搞得这么复杂！简简单单一个 "
+                },
+                {
+                  "text": "useState",
+                  "code": true
+                },
+                {
+                  "text": " 不就搞定了吗？"
+                }
+              ]
+            },
+            {
+              "type": "heading-three",
+              "children": [
+                {
+                  "text": "什么时候该用 useReducer"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "你也许发现，"
+                },
+                {
+                  "text": "useReducer",
+                  "code": true
+                },
+                {
+                  "text": " 和 "
+                },
+                {
+                  "text": "useState",
+                  "code": true
+                },
+                {
+                  "text": " 的使用目的几乎是一样的："
+                },
+                {
+                  "text": "定义状态和修改状态的逻辑",
+                  "bold": true
+                },
+                {
+                  "text": "。"
+                },
+                {
+                  "text": "useReducer",
+                  "code": true
+                },
+                {
+                  "text": " 使用起来较为繁琐，但如果你的状态管理出现了至少一个以下所列举的问题："
+                }
+              ]
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "需要维护的状态本身比较复杂，多个状态之间相互依赖"
+                    }
+                  ],
+                  "level": 0,
+                  "parent": "bulleted-list"
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "修改状态的过程比较复杂"
+                    }
+                  ],
+                  "level": 0,
+                  "parent": "bulleted-list"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "那么我们就强烈建议你使用 "
+                },
+                {
+                  "text": "useReducer",
+                  "code": true
+                },
+                {
+                  "text": " 了。我们来通过一个实际的案例讲解来感受一下 "
+                },
+                {
+                  "text": "useReducer",
+                  "code": true
+                },
+                {
+                  "text": " 的威力（这次不是无聊的计数器啦）。假设我们要做一个支持"
+                },
+                {
+                  "text": "撤销",
+                  "italic": true
+                },
+                {
+                  "text": "和"
+                },
+                {
+                  "text": "重做",
+                  "italic": true
+                },
+                {
+                  "text": "的编辑器，它的 "
+                },
+                {
+                  "text": "init",
+                  "code": true
+                },
+                {
+                  "text": " 函数和 Reducer 函数分别如下："
+                }
+              ]
+            },
+            {
+              "type": "code-block",
+              "lang": "js",
+              "children": [
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "// 用于懒初始化的函数"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "function init(initialState) {"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  return {"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "    past: [],"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "    present: initialState,"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "    future: [],"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  };"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "}"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "// Reducer 函数"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "function reducer(state, action) {"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  const { past, future, present } = state;"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  switch (action.type) {"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "    case 'UNDO':"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "      return {"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "        past: past.slice(0, past.length - 1),"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "        present: past[past.length - 1],"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "        future: [present, ...future],"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "      };"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "    case 'REDO':"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "      return {"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "        past: [...past, present],"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "        present: future[0],"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "        future: future.slice(1),"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "      };"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "    default:"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "      return state;"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  }"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "试试看用 "
+                },
+                {
+                  "text": "useState",
+                  "code": true
+                },
+                {
+                  "text": " 去写，会不会很复杂？"
+                }
+              ]
+            },
+            {
+              "type": "heading-three",
+              "children": [
+                {
+                  "text": "useContext 使用浅析"
+                }
+              ],
+              "id": "goxFaSV4G"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "现在状态的获取和修改都已经通过 "
+                },
+                {
+                  "text": "useReducer",
+                  "code": true
+                },
+                {
+                  "text": " 搞定了，那么只差一个问题：怎么让所有组件都能获取到 "
+                },
+                {
+                  "text": "dispatch",
+                  "code": true
+                },
+                {
+                  "text": " 函数呢？"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "在 Hooks 诞生之前，React 已经有了在组件树中共享数据的解决方案："
+                },
+                {
+                  "text": "Context",
+                  "link": true,
+                  "url": "https://zh-hans.reactjs.org/docs/context.html"
+                },
+                {
+                  "text": "。在类组件中，我们可以通过 "
+                },
+                {
+                  "text": "Class.contextType",
+                  "code": true
+                },
+                {
+                  "text": " 属性获取到最近的 Context Provider，那么在函数式组件中，我们该怎么获取呢？答案就是 "
+                },
+                {
+                  "text": "useContext",
+                  "code": true
+                },
+                {
+                  "text": " 钩子。使用起来非常简单："
+                }
+              ]
+            },
+            {
+              "type": "code-block",
+              "lang": "js",
+              "children": [
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "// 在某个文件中定义 MyContext"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "const MyContext = React.createContext('hello');"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "// 在函数式组件中获取 Context"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "function Component() {"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  const value = useContext(MyContext);"
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "  // ..."
+                    }
+                  ]
+                },
+                {
+                  "type": "code-line",
+                  "children": [
+                    {
+                      "text": "}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "通过 "
+                },
+                {
+                  "text": "useContext",
+                  "code": true
+                },
+                {
+                  "text": " ，我们就可以轻松地让所有组件都能获取到 "
+                },
+                {
+                  "text": "dispatch",
+                  "code": true
+                },
+                {
+                  "text": " 函数了！"
                 }
               ]
             }
@@ -7981,7 +9161,7 @@
                   "type": "paragraph",
                   "children": [
                     {
-                      "text": "好的，让我们开始用 useReducer + useContext 的组合来重构应用的状态管理。按照状态中心化的原则，我们把整个应用的状态提取到一个对象中。初步设计（TypeScript 类型定义）如下："
+                      "text": "好的，让我们开始用 useReducer + useContext 的组合来重构应用的状态管理。按照状态中心化的原则，我们把整个应用的状态提取到一个全局对象中。初步设计（TypeScript 类型定义）如下："
                     }
                   ]
                 },
@@ -8167,7 +9347,7 @@
                   "type": "paragraph",
                   "children": [
                     {
-                      "text": "我们来一一分析上面的代码变化。"
+                      "text": "我们来一一分析上面的代码变化："
                     }
                   ]
                 },
@@ -8491,7 +9671,12 @@
               "type": "diff-block",
               "file": "src/components/HistoryChartGroup.js",
               "commit": "1c61d8d36db6c1f04b4214288e24c7057eae2c6e",
-              "hiddenLines": [],
+              "hiddenLines": [
+                [
+                  22,
+                  41
+                ]
+              ],
               "children": [
                 {
                   "text": ""
@@ -8545,7 +9730,12 @@
               "type": "diff-block",
               "file": "src/components/SelectDataKey.js",
               "commit": "1c61d8d36db6c1f04b4214288e24c7057eae2c6e",
-              "hiddenLines": [],
+              "hiddenLines": [
+                [
+                  13,
+                  22
+                ]
+              ],
               "children": [
                 {
                   "text": ""
@@ -8560,7 +9750,42 @@
                   "type": "paragraph",
                   "children": [
                     {
-                      "text": ""
+                      "text": "重构完成，把项目跑起来，应该会发现和上一步的功能分毫不差。"
+                    }
+                  ]
+                },
+                {
+                  "type": "note",
+                  "level": "info",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "如果你熟悉 Redux，会发现我们的重构存在一个小小的遗憾：子组件只能通过传递 Props 的方式获取根组件 "
+                        },
+                        {
+                          "text": "App",
+                          "code": true
+                        },
+                        {
+                          "text": " 中的 "
+                        },
+                        {
+                          "text": "state",
+                          "code": true
+                        },
+                        {
+                          "text": " 。一个变通之计是通过把 "
+                        },
+                        {
+                          "text": "state",
+                          "code": true
+                        },
+                        {
+                          "text": " 也装进 Context 来解决，但如果遇到这种需求，笔者还是建议直接使用 Redux。"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -8576,7 +9801,7 @@
               "type": "heading-three",
               "children": [
                 {
-                  "text": "Redux 还有用吗？"
+                  "text": "Redux 还有用吗：Control 与 Context 之争"
                 }
               ],
               "id": "aPOWSLfYn"
@@ -8585,7 +9810,159 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
+                  "text": "听到有些声音说有了 React Hooks，都不需要 Redux 了。那 Redux 到底还有用吗？"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "在回答这个问题之前，请允许我先胡思乱想一波。React Hooks 确实强大得可怕，特别是通过优秀的第三方自定义 Hooks 库，几乎能让每个组件都能游刃有余地处理复杂的业务逻辑。反观 Redux，它的核心思想就是将状态和修改状态的操作全部集中起来进行。"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "有没有发现，这其实刚好对应了两种管理学思想 Context 和 Control？"
+                }
+              ]
+            },
+            {
+              "type": "block-quote",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "管理者需要 Context，not Control。—— 字节跳动创始人和 CEO 张一鸣"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Control 就是将权力集中起来，员工们只需有条不紊地按照 CEO 的决策执行相应的任务，就像 Redux 中的全局 Store 是”唯一的真相来源“（Single Source of Truth），所有状态和数据流的更新必须经过 Store；而 Context 就是给予各部门、各层级足够的决策权，因为他们所拥有的"
+                },
+                {
+                  "text": "上下文",
+                  "bold": true
+                },
+                {
+                  "text": "更充足，"
+                },
+                {
+                  "text": "专业度",
+                  "bold": true
+                },
+                {
+                  "text": "也更好，就像 React 中响应特定逻辑的组件具有更充足的上下文，并且可以借助 Hooks ”自给自足“地执行任务，而无需依赖全局的 Store。"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "聊到这里，我想你心里已经有自己的答案了。"
+                },
+                {
+                  "text": "如果你想要分享的话，记得在评论区留言哦~",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "heading-two",
+              "children": [
+                {
+                  "text": "参考资料"
+                }
+              ],
+              "id": "msxy34Woo"
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Sarah Drasner："
+                    },
+                    {
+                      "text": "Understanding the Almighty Reducer",
+                      "link": true,
+                      "url": "https://css-tricks.com/understanding-the-almighty-reducer/"
+                    }
+                  ],
+                  "parent": "bulleted-list",
+                  "level": 0
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Kingsley Silas："
+                    },
+                    {
+                      "text": "Getting to Know the useReducer React Hook",
+                      "link": true,
+                      "url": "https://css-tricks.com/getting-to-know-the-usereducer-react-hook/"
+                    }
+                  ],
+                  "parent": "bulleted-list",
+                  "level": 0
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Kpax Qin："
+                    },
+                    {
+                      "link": true,
+                      "url": "https://zhuanlan.zhihu.com/p/27093191",
+                      "text": "Redux状态管理之痛点、分析与改良"
+                    }
+                  ],
+                  "parent": "bulleted-list",
+                  "level": 0
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "方应杭："
+                    },
+                    {
+                      "text": "尽量使用 useReducer，不要使用 useState（译文）",
+                      "link": true,
+                      "url": "https://zhuanlan.zhihu.com/p/63385235"
+                    }
+                  ],
+                  "parent": "bulleted-list",
+                  "level": 0
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "张一鸣："
+                    },
+                    {
+                      "link": true,
+                      "url": "https://bytedance.feishu.cn/docs/doccnNbvesjrrJp13cNU3E3ikkb#7eQLgQ",
+                      "text": "CEO 要避免\"理性的自负\", 这错误盖茨、乔布斯都犯过"
+                    }
+                  ],
+                  "level": 0,
+                  "parent": "bulleted-list"
                 }
               ]
             }
