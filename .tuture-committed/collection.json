@@ -9831,6 +9831,15 @@
               ]
             },
             {
+              "type": "image",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "url": "https://imgkr.cn-bj.ufileos.com/4c37c731-1c15-4229-a8c6-ae3fc4980a76.jpg"
+            },
+            {
               "type": "block-quote",
               "children": [
                 {
@@ -9864,6 +9873,15 @@
                   "text": "也更好，就像 React 中响应特定逻辑的组件具有更充足的上下文，并且可以借助 Hooks ”自给自足“地执行任务，而无需依赖全局的 Store。"
                 }
               ]
+            },
+            {
+              "type": "image",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "url": "https://imgkr.cn-bj.ufileos.com/7f0ca868-cff1-473c-bde7-75c1bf88a46c.jpg"
             },
             {
               "type": "paragraph",
