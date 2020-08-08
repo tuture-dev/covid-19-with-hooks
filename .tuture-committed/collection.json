@@ -17,7 +17,7 @@
         "React",
         "入门"
       ],
-      "cover": "https://imgkr.cn-bj.ufileos.com/7425c4bd-a180-4b4f-8c01-350c639d1dff.png"
+      "cover": "https://static.tuture.co/c/870a7b7/hook1.jpg"
     },
     {
       "id": "xocgOEMnq",
@@ -32,7 +32,7 @@
         "React",
         "入门"
       ],
-      "cover": "https://imgkr.cn-bj.ufileos.com/daf8a0a8-30d2-417d-9b84-583b48b16bfa.png",
+      "cover": "https://static.tuture.co/c/870a7b7/hooks2.jpg",
       "description": "在第二篇教程中，我们将手把手带你用自定义 Hook 重构之前的组件代码，让它变得更清晰、并且可以实现逻辑复用。在重构完成之后，我们陷入了组件“不断获取数据并重新渲染”的无限循环，这时候，useCallback 站了出来，如同定海神针一般拯救了我们的应用……"
     },
     {
@@ -48,7 +48,7 @@
         "React",
         "入门"
       ],
-      "cover": "https://imgkr.cn-bj.ufileos.com/0b43fd6d-a3a9-40d9-8ae5-3a9b4c16f55a.jpg",
+      "cover": "https://static.tuture.co/c/870a7b7/hooks3.jpg",
       "description": "随着应用状态越来越复杂，我们迫切需要状态与数据流管理的解决方案。熟悉 React 开发的同学一定听说过 Redux，而在这篇文章中，我们将通过 useReducer + useContext 的组合实现一个简易版的 Redux。首先，我们将带你重新认识“老朋友”useState，并借此引出这篇文章的主角：Reducer 函数与 useReducer 钩子，并通过实战一步步带你理清数据流和状态管理的基本思想。"
     }
   ],
@@ -1372,7 +1372,7 @@
                   "text": ""
                 }
               ],
-              "url": "https://imgkr.cn-bj.ufileos.com/9a55a40e-ebd5-4ffb-9b8b-3cdd4e9161a3.gif"
+              "url": "https://static.tuture.co/c/870a7b7/1717865fb8a13cfe.gif"
             },
             {
               "type": "paragraph",
@@ -1521,7 +1521,7 @@
                   "text": ""
                 }
               ],
-              "url": "https://imgkr.cn-bj.ufileos.com/e09f2b4d-e20d-4bad-ba62-80d860f80e9f.gif"
+              "url": "https://static.tuture.co/c/870a7b7/1717865fbad32d1c.gif"
             },
             {
               "type": "paragraph",
@@ -1829,7 +1829,7 @@
                   "text": ""
                 }
               ],
-              "url": "https://imgkr.cn-bj.ufileos.com/ea1a3cb2-6bf5-4b5d-b7a7-1426521c1e5f.gif"
+              "url": "https://static.tuture.co/c/870a7b7/1717865fbc70e63d.gif"
             },
             {
               "type": "paragraph",
@@ -2099,7 +2099,7 @@
                   "text": ""
                 }
               ],
-              "url": "https://imgkr.cn-bj.ufileos.com/ad9b947f-77fe-43a0-bdee-a27d11246204.gif"
+              "url": "https://static.tuture.co/c/870a7b7/1717865fbc8ba58f.gif"
             },
             {
               "type": "paragraph",
@@ -2314,7 +2314,7 @@
                   "text": ""
                 }
               ],
-              "url": "https://imgkr.cn-bj.ufileos.com/bd507a8c-bf75-4e06-be79-7c027cce6955.gif"
+              "url": "https://static.tuture.co/c/870a7b7/1717865fbf149bdc.gif"
             },
             {
               "type": "paragraph",
@@ -2736,7 +2736,7 @@
             },
             {
               "type": "image",
-              "url": "https://imgkr.cn-bj.ufileos.com/c0e757fb-4838-4653-9ad6-9b9ddb05ee2f.png",
+              "url": "https://static.tuture.co/c/870a7b7/171786603098c448.png",
               "children": [
                 {
                   "text": ""
@@ -2837,7 +2837,7 @@
                   "text": ""
                 }
               ],
-              "url": "https://imgkr.cn-bj.ufileos.com/af2ed210-08f7-4741-b17c-c2d4b67db3ff.gif"
+              "url": "https://static.tuture.co/c/870a7b7/171786605bc81ad0.gif"
             },
             {
               "type": "paragraph",
@@ -2974,7 +2974,7 @@
                   "text": ""
                 }
               ],
-              "url": "https://imgkr.cn-bj.ufileos.com/799216d1-b91e-4cb6-9410-b8776ab82ff5.gif"
+              "url": "https://static.tuture.co/c/870a7b7/171786607069e72d.gif"
             },
             {
               "type": "paragraph",
@@ -3136,7 +3136,7 @@
                   "text": ""
                 }
               ],
-              "url": "https://imgkr.cn-bj.ufileos.com/ebb090f8-7471-46ad-9556-b773d1910d03.gif"
+              "url": "https://static.tuture.co/c/870a7b7/17178660689c7301.gif"
             },
             {
               "type": "paragraph",
@@ -3960,7 +3960,7 @@
             },
             {
               "type": "image",
-              "url": "https://imgkr.cn-bj.ufileos.com/da72e057-92c4-4215-ab8f-59355ca160df.gif",
+              "url": "https://static.tuture.co/c/870a7b7/171786607417628c.gif",
               "children": [
                 {
                   "text": ""
@@ -4493,7 +4493,7 @@
                   "text": ""
                 }
               ],
-              "url": "https://imgkr.cn-bj.ufileos.com/a1063c8d-85c7-4b4e-911b-3423cd5ccd85.gif"
+              "url": "https://static.tuture.co/c/870a7b7/17192a0a4b8aa4e7.gif"
             },
             {
               "type": "paragraph",
@@ -4531,7 +4531,7 @@
                   "text": ""
                 }
               ],
-              "url": "https://imgkr.cn-bj.ufileos.com/5e93794b-94ce-4e5c-a0f0-b4f6b2a5254e.gif"
+              "url": "https://static.tuture.co/c/870a7b7/17192a0a4b88b06e.gif"
             },
             {
               "type": "paragraph",
@@ -4920,7 +4920,7 @@
             },
             {
               "type": "image",
-              "url": "https://imgkr.cn-bj.ufileos.com/0bac85a3-69cd-4273-8fa9-70fa8ee52ec7.gif",
+              "url": "https://static.tuture.co/c/870a7b7/17192a0a4cca2311.gif",
               "children": [
                 {
                   "text": ""
@@ -5186,7 +5186,7 @@
                   "text": ""
                 }
               ],
-              "url": "https://imgkr.cn-bj.ufileos.com/7d74f227-0c63-405e-9ce9-0cfb4b2ce546.gif"
+              "url": "https://static.tuture.co/c/870a7b7/17192a0a4d97501f.gif"
             },
             {
               "type": "paragraph",
@@ -5863,7 +5863,7 @@
                   "text": ""
                 }
               ],
-              "url": "https://imgkr.cn-bj.ufileos.com/71dce125-e7f7-4389-a0a4-f3edb0156f46.gif"
+              "url": "https://static.tuture.co/c/870a7b7/17192a0a4d08c4c2.gif"
             },
             {
               "type": "paragraph",
@@ -5932,7 +5932,7 @@
                   "text": ""
                 }
               ],
-              "url": "https://imgkr.cn-bj.ufileos.com/d2dfa7fb-64c4-47cc-b85e-b43ee9150dd7.gif"
+              "url": "https://static.tuture.co/c/870a7b7/17192a0a4d874a81.gif"
             },
             {
               "type": "paragraph",
@@ -7276,7 +7276,7 @@
                   "text": ""
                 }
               ],
-              "url": "https://imgkr.cn-bj.ufileos.com/e3456450-0532-4f60-ad18-012f18bd00a7.gif"
+              "url": "https://static.tuture.co/c/870a7b7/171ea21745699e22.gif"
             },
             {
               "type": "paragraph",
@@ -7293,7 +7293,7 @@
                   "text": ""
                 }
               ],
-              "url": "https://imgkr.cn-bj.ufileos.com/611f9506-4fce-40d3-beca-706bcaab7bbf.gif"
+              "url": "https://static.tuture.co/c/870a7b7/171ea21748b2582f.gif"
             },
             {
               "type": "paragraph",
@@ -7339,7 +7339,7 @@
                       "text": ""
                     }
                   ],
-                  "url": "https://imgkr.cn-bj.ufileos.com/4a1444db-7c7a-42ef-8b90-fc3aae02ec54.png"
+                  "url": "https://static.tuture.co/c/870a7b7/171ea21749423be5.png"
                 },
                 {
                   "type": "paragraph",
@@ -8056,7 +8056,7 @@
                   "text": ""
                 }
               ],
-              "url": "https://imgkr.cn-bj.ufileos.com/a79e0ef9-5518-4a15-ba91-fb99695ca8e6.png"
+              "url": "https://static.tuture.co/c/870a7b7/171ea2174b697c8c.png"
             },
             {
               "type": "paragraph",
@@ -8080,7 +8080,7 @@
                   "text": ""
                 }
               ],
-              "url": "https://imgkr.cn-bj.ufileos.com/6f8147ee-aba5-499b-b7e9-0d3dca857ba8.gif"
+              "url": "https://static.tuture.co/c/870a7b7/171ea2174c5ae3d4.gif"
             },
             {
               "type": "paragraph",
@@ -9837,7 +9837,7 @@
                   "text": ""
                 }
               ],
-              "url": "https://imgkr.cn-bj.ufileos.com/4c37c731-1c15-4229-a8c6-ae3fc4980a76.jpg"
+              "url": "https://static.tuture.co/c/870a7b7/171ea29995effdb2.png"
             },
             {
               "type": "block-quote",
@@ -9881,7 +9881,7 @@
                   "text": ""
                 }
               ],
-              "url": "https://imgkr.cn-bj.ufileos.com/7f0ca868-cff1-473c-bde7-75c1bf88a46c.jpg"
+              "url": "https://static.tuture.co/c/870a7b7/171ea2a092220ca1.png"
             },
             {
               "type": "paragraph",
